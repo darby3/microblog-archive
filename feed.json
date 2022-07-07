@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2022/07/07/did-a-big.html",
+				
+				"content_html": "<p>Did a big shuffle of the 📚 TBR pile last night. If I can just take a solid 6 months off from all my other responsibilities, I think I could get it back down to less-than-night-terror-sweats-inducing proportions.</p>\n",
+				"content_text": "Did a big shuffle of the 📚 TBR pile last night. If I can just take a solid 6 months off from all my other responsibilities, I think I could get it back down to less-than-night-terror-sweats-inducing proportions.\n",
+				"date_published": "2022-07-07T10:50:31-04:00",
+				"url": "https://darby3.micro.blog/2022/07/07/did-a-big.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/07/06/final-interval-run.html",
+				
+				"content_html": "<p>Final interval run last night. 🏃 7 weeks ago: 4x0.25 mile intervals from 8:56/mile pace down to 7:56/mile pace. I&rsquo;ve experimented a bit since then—shorter breaks, walking some during breaks. Last night, did 6x0.25 mile intervals, between 7:32 and 8:00/mile paces.</p>\n",
+				"content_text": "Final interval run last night. 🏃 7 weeks ago: 4x0.25 mile intervals from 8:56/mile pace down to 7:56/mile pace. I've experimented a bit since then—shorter breaks, walking some during breaks. Last night, did 6x0.25 mile intervals, between 7:32 and 8:00/mile paces.\n",
+				"date_published": "2022-07-06T11:06:19-04:00",
+				"url": "https://darby3.micro.blog/2022/07/06/final-interval-run.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/07/05/currently-reading-taco.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781439148624\">Taco USA</a> by Gustavo Arellano 📚</p>\n",
+				"content_text": "Currently reading: [Taco USA](https://micro.blog/books/9781439148624) by Gustavo Arellano 📚\n",
+				"date_published": "2022-07-05T10:33:47-04:00",
+				"url": "https://darby3.micro.blog/2022/07/05/currently-reading-taco.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/07/03/my-sourdough-still.html",
+				
+				"content_html": "<p>My sourdough still kicks.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My sourdough still kicks. \n\n<img src=\"uploads/2022/2ed0e267e0.jpg\" width=\"600\" height=\"600\" alt=\"sourdough bread loaf\" />\n",
+				"date_published": "2022-07-03T14:38:24-04:00",
+				"url": "https://darby3.micro.blog/2022/07/03/my-sourdough-still.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/07/02/cracked-miles-running.html",
+				
+				"content_html": "<p>Cracked 300+ miles running for the year this morning. 🏃</p>\n",
+				"content_text": "Cracked 300+ miles running for the year this morning. 🏃\n",
+				"date_published": "2022-07-02T13:45:30-04:00",
+				"url": "https://darby3.micro.blog/2022/07/02/cracked-miles-running.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2022/06/29/164600.html",
 				
 				"content_html": "<p>After posting last week how well my running was going&hellip;I had some less-swell runs just after. Naturally! Seem to be just hiccups though. Had a great 3x half-mile interval session last night. 🏃</p>\n",
@@ -18,7 +58,7 @@
 				"id": "http://darby3.micro.blog/2022/06/28/sky-division.html",
 				
 				"content_html": "<p>Sky division.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sky division. \n\n<img src=\"uploads/2022/db9513dfad.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Sky division. \n\n<img src=\"https://darby3.micro.blog/uploads/2022/db9513dfad.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-28T18:34:40-04:00",
 				"url": "https://darby3.micro.blog/2022/06/28/sky-division.html"
 			},
@@ -194,7 +234,7 @@
 				"id": "http://darby3.micro.blog/2022/05/20/poppin.html",
 				
 				"content_html": "<p>Poppin’. 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Poppin’. 📷\n\n\n<img src=\"uploads/2022/226d96aa02.jpg\" width=\"450\" height=\"600\" alt=\"Tree in bloom. \" />\n",
+				"content_text": "Poppin’. 📷\n\n\n<img src=\"https://darby3.micro.blog/uploads/2022/226d96aa02.jpg\" width=\"450\" height=\"600\" alt=\"Tree in bloom. \" />\n",
 				"date_published": "2022-05-20T16:37:51-04:00",
 				"url": "https://darby3.micro.blog/2022/05/20/poppin.html"
 			},
