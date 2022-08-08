@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2022/08/08/the-sand-dunes.html",
+				
+				"content_html": "<p>The sand dunes in western Michigan are wild.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The sand dunes in western Michigan are wild. \n\n<img src=\"uploads/2022/1bda4a1e2a.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2022-08-08T12:22:31-04:00",
+				"url": "https://darby3.micro.blog/2022/08/08/the-sand-dunes.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/08/03/dont-mind-me.html",
+				
+				"content_html": "<p>Don&rsquo;t mind me, just out here exploring js module bundlers. In 2022. NBD.</p>\n",
+				"content_text": "Don't mind me, just out here exploring js module bundlers. In 2022. NBD.\n",
+				"date_published": "2022-08-03T12:06:38-04:00",
+				"url": "https://darby3.micro.blog/2022/08/03/dont-mind-me.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2022/08/01/currently-reading-ruin.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316386326\">Ruin</a> by John Gwynne 📚</p>\n",
