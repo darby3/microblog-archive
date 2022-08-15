@@ -7,10 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2022/08/15/bike-nerdery-my.html",
+				
+				"content_html": "<p>Bike nerdery:</p>\n<p>My Giant Escape hybrid. I love this bike.</p>\n<!-- raw HTML omitted -->\n<p>My Giant Defy road bike. Not getting as much use from it as I&rsquo;d like, as it&rsquo;s got a blown out tire I&rsquo;ve yet to get taken care of.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bike nerdery:\r\n\r\nMy Giant Escape hybrid. I love this bike.\r\n\r\n<img src=\"uploads/2022/b286aa602b.jpg\" width=\"600\" height=\"800\" alt=\"Bicycle near a bridge in front of Cleveland's skyline.\" />\r\n\r\nMy Giant Defy road bike. Not getting as much use from it as I'd like, as it's got a blown out tire I've yet to get taken care of. \r\n\r\n<img src=\"uploads/2022/797662e218.jpg\" width=\"600\" height=\"450\" alt=\"Bicycle near a river in front of Cleveland's skyline.\" />\n",
+				"date_published": "2022-08-15T16:42:37-04:00",
+				"url": "https://darby3.micro.blog/2022/08/15/bike-nerdery-my.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/08/15/made-a-funky.html",
+				
+				"content_html": "<p>Made a funky looking bread and I’ve yet to even try it yet.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Made a funky looking bread and I’ve yet to even try it yet. \n\n<img src=\"uploads/2022/1869b62de4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-15T10:13:36-04:00",
+				"url": "https://darby3.micro.blog/2022/08/15/made-a-funky.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/08/12/i-installed-raindropio.html",
+				
+				"content_html": "<p>I installed Raindrop.io a while ago but haven&rsquo;t used it. What I actually need is an extension that takes my existing &ldquo;bookmark this&rdquo; shortcuts and redirects them all directly into the trash. That way I don&rsquo;t feel bad about never looking at them ever again.</p>\n",
+				"content_text": "I installed Raindrop.io a while ago but haven't used it. What I actually need is an extension that takes my existing \"bookmark this\" shortcuts and redirects them all directly into the trash. That way I don't feel bad about never looking at them ever again.\n",
+				"date_published": "2022-08-12T12:55:07-04:00",
+				"url": "https://darby3.micro.blog/2022/08/12/i-installed-raindropio.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/08/12/took-my-first.html",
+				
+				"content_html": "<p>Took my first couple tentative runs this week since the race. Feels weird having most of my body go, &ldquo;Yes please,&rdquo; while my knee is still like, &ldquo;Hey hey hey, let&rsquo;s maybe talk about this first, okay?&rdquo; 🏃</p>\n",
+				"content_text": "Took my first couple tentative runs this week since the race. Feels weird having most of my body go, \"Yes please,\" while my knee is still like, \"Hey hey hey, let's maybe talk about this first, okay?\" 🏃\n",
+				"date_published": "2022-08-12T10:34:26-04:00",
+				"url": "https://darby3.micro.blog/2022/08/12/took-my-first.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/08/11/i-dont-do.html",
+				
+				"content_html": "<p>I don&rsquo;t do <em>much</em> JS work, though I probably could. Or should. So I&rsquo;m trying to fill in some knowledge gaps. And&hellip;gosh. I can&rsquo;t imagine learning all this from the ground up today. Or maybe it&rsquo;d be easier that way, without fighting through weird historical knowledge? Hmm.</p>\n",
+				"content_text": "I don't do *much* JS work, though I probably could. Or should. So I'm trying to fill in some knowledge gaps. And...gosh. I can't imagine learning all this from the ground up today. Or maybe it'd be easier that way, without fighting through weird historical knowledge? Hmm.\n",
+				"date_published": "2022-08-11T10:18:25-04:00",
+				"url": "https://darby3.micro.blog/2022/08/11/i-dont-do.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/08/08/tfw-youre-excited.html",
+				
+				"content_html": "<p>TFW you&rsquo;re excited The Mars Volta is releasing a new album but are also a little bit nervous because none of the advance singles have grabbed your attention&hellip; 🎵</p>\n",
+				"content_text": "TFW you're excited The Mars Volta is releasing a new album but are also a little bit nervous because none of the advance singles have grabbed your attention... 🎵\n",
+				"date_published": "2022-08-08T17:11:06-04:00",
+				"url": "https://darby3.micro.blog/2022/08/08/tfw-youre-excited.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2022/08/08/the-sand-dunes.html",
 				
 				"content_html": "<p>The sand dunes in western Michigan are wild.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The sand dunes in western Michigan are wild. \n\n<img src=\"uploads/2022/1bda4a1e2a.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "The sand dunes in western Michigan are wild. \n\n<img src=\"https://darby3.micro.blog/uploads/2022/1bda4a1e2a.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-08-08T12:22:31-04:00",
 				"url": "https://darby3.micro.blog/2022/08/08/the-sand-dunes.html"
 			},
