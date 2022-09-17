@@ -7,6 +7,89 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2022/09/16/i-just-dont.html",
+				
+				"content_html": "<p>I just don&rsquo;t think I was particularly itching for a &ldquo;nice, pleasant enough&rdquo; Mars Volta album. 🎵</p>\n",
+				"content_text": "I just don't think I was particularly itching for a \"nice, pleasant enough\" Mars Volta album. 🎵\n",
+				"date_published": "2022-09-16T10:28:16-04:00",
+				"url": "https://darby3.micro.blog/2022/09/16/i-just-dont.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/15/id-like-to.html",
+				
+				"content_html": "<p>I&rsquo;d like to announce my intention to be acquired by Adobe for $20 billion.</p>\n<p>I&rsquo;d really, really like to.</p>\n<p>&hellip;</p>\n<p>Your move, Adobe.</p>\n",
+				"content_text": "I'd like to announce my intention to be acquired by Adobe for $20 billion.\r\n\r\nI'd really, really like to.\r\n\r\n...\r\n\r\nYour move, Adobe.\n",
+				"date_published": "2022-09-15T12:57:30-04:00",
+				"url": "https://darby3.micro.blog/2022/09/15/id-like-to.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/15/is-feedly-still.html",
+				
+				"content_html": "<p>Is feedly still the basic go-to RSS feed reader out there?</p>\n",
+				"content_text": "Is feedly still the basic go-to RSS feed reader out there? \n",
+				"date_published": "2022-09-15T07:56:19-04:00",
+				"url": "https://darby3.micro.blog/2022/09/15/is-feedly-still.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/14/love-to-run.html",
+				
+				"content_html": "<p>Love to run under those beautiful Cleveland night skies… 😂🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Love to run under those beautiful Cleveland night skies… 😂🏃\n\n<img src=\"uploads/2022/8d3c141594.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-14T11:39:09-04:00",
+				"url": "https://darby3.micro.blog/2022/09/14/love-to-run.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/14/had-my-second.html",
+				
+				"content_html": "<p>Had my second shockingly-low-heart-rate Tuesday night run in a row last night. Am I starting to figure out this whole zone 2 thing finally…? 🏃</p>\n",
+				"content_text": "Had my second shockingly-low-heart-rate Tuesday night run in a row last night. Am I starting to figure out this whole zone 2 thing finally…? 🏃\n",
+				"date_published": "2022-09-14T08:14:07-04:00",
+				"url": "https://darby3.micro.blog/2022/09/14/had-my-second.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/14/shout-out-around.html",
+				
+				"content_html": "<p>Shout out around this time of year to all my fellow folks rocking ancient iPhones until they pull them out of our cold dead hands.</p>\n",
+				"content_text": "Shout out around this time of year to all my fellow folks rocking ancient iPhones until they pull them out of our cold dead hands. \n",
+				"date_published": "2022-09-14T08:12:03-04:00",
+				"url": "https://darby3.micro.blog/2022/09/14/shout-out-around.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/14/i-dont-usually.html",
+				
+				"content_html": "<p>I don’t usually get up in arms over NY Times op-eds, but golly have I seen a couple doozy headlines recently. 😮</p>\n",
+				"content_text": "I don’t usually get up in arms over NY Times op-eds, but golly have I seen a couple doozy headlines recently. 😮\n",
+				"date_published": "2022-09-14T08:06:54-04:00",
+				"url": "https://darby3.micro.blog/2022/09/14/i-dont-usually.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/12/going-on-hours.html",
+				
+				"content_html": "<p>Going on 18 hours post-super-booster shot, and the side effects are &hellip; mild, vague, like I feel generally askew to the world around me. (Which is usually how I feel, this time it&rsquo;s just more physical.) My arm hurt like heck overnight—forgot about that special fun.</p>\n",
+				"content_text": "Going on 18 hours post-super-booster shot, and the side effects are ... mild, vague, like I feel generally askew to the world around me. (Which is usually how I feel, this time it's just more physical.) My arm hurt like heck overnight—forgot about that special fun. \n",
+				"date_published": "2022-09-12T10:39:15-04:00",
+				"url": "https://darby3.micro.blog/2022/09/12/going-on-hours.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/11/got-the-new.html",
+				
+				"content_html": "<p>Got the new booster today.</p>\n",
+				"content_text": "Got the new booster today.\n",
+				"date_published": "2022-09-11T19:05:01-04:00",
+				"url": "https://darby3.micro.blog/2022/09/11/got-the-new.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/09/11/week-two-running.html",
+				"title": "Week two running report 🏃",
+				"content_html": "<p>Not a bad week!</p>\n<p>The three miler on Tuesday was weird. I knew I wanted to keep it light after the slugfest that was last Saturday, but…the maximum heart rate my watch reported at the end had to be an error. Was I even moving? Pace felt right, though, slow even for a generally slow runner like me, and I really didn’t feel even the slightest bit winded at the end of it, so…I don’t know. I’d like to try to do that again, whatever it is I did!</p>\n<p>Thursday felt more typical. It also felt really good. Pace averaged out down under 11/min which is my current rough (and evolving) target for the half. It just felt like a really good run, like exactly the kind of run I hope to maintain for the half. Too soon to tell if that’s optimistic or not yet.</p>\n<p>Saturday’s five miler I wound up running much earlier in the day than I usually do which mostly means it felt like I had to work for it a bit more than usual. But it was much smoother than last weekend’s four miler—never felt like I had to quit or stop, caught myself a couple times feeling like I was maybe starting to ramp up too much and started figuring out how to deliberately slow down a bit to compensate. (Also a good sign, I didn’t feel completely wiped out for the very long day of family activities I immediately transitioned to post-run.)</p>\n<p>Overall this week felt like what I needed; both further cementing a healthy base and also recovering from the rough run last weekend. Which is the kind of thing that really only comes with the perspective of having been doing a thing for a while—once upon a time a crummy run meant I was a total failure and all my progress was lost and also I’m a huge fraud. Now it’s more just a bump in the road of a much longer game. Not that I don’t beat myself up for it, just…not as much.</p>\n<p>The next two weeks I’ve felt for a while are going to be…interesting? Bellwethers? Things ramp up this week, all three runs are longer than the previous weeks’ counterparts, with a long 5 miler on Thursday and a 6 miler on Saturday. The following week mileage drops a bit for a bit but only because of the transition to race pace runs on Thursdays. It’s going to get interesting. And educational.</p>\n",
+				"content_text": "Not a bad week!\n\nThe three miler on Tuesday was weird. I knew I wanted to keep it light after the slugfest that was last Saturday, but…the maximum heart rate my watch reported at the end had to be an error. Was I even moving? Pace felt right, though, slow even for a generally slow runner like me, and I really didn’t feel even the slightest bit winded at the end of it, so…I don’t know. I’d like to try to do that again, whatever it is I did! \n\nThursday felt more typical. It also felt really good. Pace averaged out down under 11/min which is my current rough (and evolving) target for the half. It just felt like a really good run, like exactly the kind of run I hope to maintain for the half. Too soon to tell if that’s optimistic or not yet. \n\nSaturday’s five miler I wound up running much earlier in the day than I usually do which mostly means it felt like I had to work for it a bit more than usual. But it was much smoother than last weekend’s four miler—never felt like I had to quit or stop, caught myself a couple times feeling like I was maybe starting to ramp up too much and started figuring out how to deliberately slow down a bit to compensate. (Also a good sign, I didn’t feel completely wiped out for the very long day of family activities I immediately transitioned to post-run.)\n\nOverall this week felt like what I needed; both further cementing a healthy base and also recovering from the rough run last weekend. Which is the kind of thing that really only comes with the perspective of having been doing a thing for a while—once upon a time a crummy run meant I was a total failure and all my progress was lost and also I’m a huge fraud. Now it’s more just a bump in the road of a much longer game. Not that I don’t beat myself up for it, just…not as much. \n\nThe next two weeks I’ve felt for a while are going to be…interesting? Bellwethers? Things ramp up this week, all three runs are longer than the previous weeks’ counterparts, with a long 5 miler on Thursday and a 6 miler on Saturday. The following week mileage drops a bit for a bit but only because of the transition to race pace runs on Thursdays. It’s going to get interesting. And educational. \n",
+				"date_published": "2022-09-11T10:34:51-04:00",
+				"url": "https://darby3.micro.blog/2022/09/11/week-two-running.html",
+				"tags": ["running"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2022/09/09/currently-reading-chronicles.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593320174\">Chronicles from the Land of the Happiest People on Earth</a> by Wole Soyinka 📚</p>\n",
