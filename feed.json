@@ -7,12 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2022/11/25/i-want-to.html",
+				
+				"content_html": "<p>I want to start a podcast that’s just a critical review of the usability of DVD/Blu-Ray menu interfaces.</p>\n",
+				"content_text": "I want to start a podcast that’s just a critical review of the usability of DVD/Blu-Ray menu interfaces. \n",
+				"date_published": "2022-11-25T21:34:02-05:00",
+				"url": "https://darby3.micro.blog/2022/11/25/i-want-to.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/11/23/picked-up-the.html",
+				
+				"content_html": "<p>Picked up the starter Ableton offering via the black Friday sale the other day. I haven&rsquo;t touched it before this week in ages. I still kind of love it. Like a big box of toy parts.</p>\n",
+				"content_text": "Picked up the starter Ableton offering via the black Friday sale the other day. I haven't touched it before this week in ages. I still kind of love it. Like a big box of toy parts.\n",
+				"date_published": "2022-11-23T14:19:29-05:00",
+				"url": "https://darby3.micro.blog/2022/11/23/picked-up-the.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/11/23/still-working-on.html",
+				
+				"content_html": "<p>Still working on that post-race running update. Lots to say, lots to say&hellip;</p>\n",
+				"content_text": "Still working on that post-race running update. Lots to say, lots to say...\n",
+				"date_published": "2022-11-23T12:52:59-05:00",
+				"url": "https://darby3.micro.blog/2022/11/23/still-working-on.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/11/23/thus-concludes-the.html",
+				
+				"content_html": "<p>(Thus concludes the navel-gazing for a bit.)</p>\n",
+				"content_text": "(Thus concludes the navel-gazing for a bit.)\n",
+				"date_published": "2022-11-23T10:28:17-05:00",
+				"url": "https://darby3.micro.blog/2022/11/23/thus-concludes-the.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/11/23/also-realizing-just.html",
+				
+				"content_html": "<p>Also realizing just how much my real-life introvert personality is spilling over into my approach to online, whether or not it shows to anyone aside from me, or whether it even matters.</p>\n",
+				"content_text": "Also realizing just how much my real-life introvert personality is spilling over into my approach to online, whether or not it shows to anyone aside from me, or whether it even matters. \n",
+				"date_published": "2022-11-23T10:28:01-05:00",
+				"url": "https://darby3.micro.blog/2022/11/23/also-realizing-just.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/11/23/having-been-away.html",
+				
+				"content_html": "<p>Having been away from Twitter for much of the year now, having gotten away from the surprisingly heavy personal emotional baggage that went along with being on that platform&hellip;.I&rsquo;m not sure I&rsquo;m enjoying seeing Mastodon picking up steam.</p>\n",
+				"content_text": "Having been away from Twitter for much of the year now, having gotten away from the surprisingly heavy personal emotional baggage that went along with being on that platform....I'm not sure I'm enjoying seeing Mastodon picking up steam.\n",
+				"date_published": "2022-11-23T10:25:44-05:00",
+				"url": "https://darby3.micro.blog/2022/11/23/having-been-away.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/11/21/surreal-detail-stuck.html",
+				
+				"content_html": "<p>Surreal detail, stuck in my memory: during yesterday&rsquo;s half marathon race, the water served on the course had bits of ice in it.</p>\n",
+				"content_text": "Surreal detail, stuck in my memory: during yesterday's half marathon race, the water served on the course had bits of ice in it.\n",
+				"date_published": "2022-11-21T13:16:58-05:00",
+				"url": "https://darby3.micro.blog/2022/11/21/surreal-detail-stuck.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2022/11/20/full-write-up.html",
 				
-				"content_html": "<p>Full write up to come, but for now: I did it! I ran my first half marathon. In 20 degree weather. With really breezy breezes. (I kind of can’t believe I actually did that.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Full write up to come, but for now: I did it! I ran my first half marathon. In 20 degree weather. With really breezy breezes. (I kind of can’t believe I actually did that.)\n\n<img src=\"uploads/2022/0c81c7cc52.jpg\" width=\"450\" height=\"600\" alt=\"Darby holding Fall Classic 2022 half marathon finisher's coaster\">\n",
+				"content_html": "<p>Full write up to come, but for now: I did it! I ran my first half marathon. In 20 degree weather. With really breezy breezes. (I kind of can’t believe I actually did that.) 🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Full write up to come, but for now: I did it! I ran my first half marathon. In 20 degree weather. With really breezy breezes. (I kind of can’t believe I actually did that.) 🏃\n\n<img src=\"uploads/2022/0c81c7cc52.jpg\" width=\"450\" height=\"600\" alt=\"Darby holding Fall Classic 2022 half marathon finisher's coaster\">\n",
 				"date_published": "2022-11-20T17:39:16-05:00",
-				"url": "https://darby3.micro.blog/2022/11/20/full-write-up.html"
+				"url": "https://darby3.micro.blog/2022/11/20/full-write-up.html",
+				"tags": ["running"]
 			},
 			{
 				"id": "http://darby3.micro.blog/2022/11/18/i-woke-up.html",
