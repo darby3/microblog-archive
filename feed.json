@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2022/12/08/the-cool-thing.html",
+				
+				"content_html": "<p>The cool thing about migrating an entire website to a new host is that it is never stressful and everything is always fine. For someone. Somewhere.</p>\n",
+				"content_text": "The cool thing about migrating an entire website to a new host is that it is never stressful and everything is always fine. For someone. Somewhere.\n",
+				"date_published": "2022-12-08T09:31:12-05:00",
+				"url": "https://darby3.micro.blog/2022/12/08/the-cool-thing.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/06/all-caught-up.html",
+				
+				"content_html": "<p>All caught up on Advent of Code. Feels like a lot of what I learned last year is making this year a bit easier&hellip;so far.</p>\n",
+				"content_text": "All caught up on Advent of Code. Feels like a lot of what I learned last year is making this year a bit easier...so far.\n",
+				"date_published": "2022-12-06T11:01:38-05:00",
+				"url": "https://darby3.micro.blog/2022/12/06/all-caught-up.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/05/that-thing-where.html",
+				
+				"content_html": "<p>That thing where you wake up on the Monday of a stressful week and the car does something bad. 😑</p>\n",
+				"content_text": "That thing where you wake up on the Monday of a stressful week and the car does something bad. 😑\n",
+				"date_published": "2022-12-05T10:23:42-05:00",
+				"url": "https://darby3.micro.blog/2022/12/05/that-thing-where.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/02/really-feeling-this.html",
+				
+				"content_html": "<p>Really feeling <a href=\"https://soundcloud.com/resident-advisor/ra822-gigi-fm\">this GiGi FM DJ set</a> right now. 🎵</p>\n",
+				"content_text": "Really feeling [this GiGi FM DJ set](https://soundcloud.com/resident-advisor/ra822-gigi-fm) right now. 🎵\n",
+				"date_published": "2022-12-02T10:22:30-05:00",
+				"url": "https://darby3.micro.blog/2022/12/02/really-feeling-this.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2022/12/01/happy-advent-of.html",
 				
 				"content_html": "<p>Happy <a href=\"https://adventofcode.com/\">Advent of Code</a> season, fellow nerds. Decided to go with JS again this year. We&rsquo;ll see how long I last before I accidentally reduce the laptop to a smoking slag by doing something <em>completely wrong</em>.</p>\n",
