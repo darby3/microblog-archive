@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2022/12/19/spend-a-lot.html",
+				
+				"content_html": "<p>Spend a lot of time in <a href=\"https://iterm2.com/\">iTerm2</a>. Finding reasons to dip into more advanced features the last week or so. Kind of feel like I&rsquo;ve dusted off an old Nintendo Power Glove except it&rsquo;s actually got power.</p>\n",
+				"content_text": "Spend a lot of time in [iTerm2](https://iterm2.com/). Finding reasons to dip into more advanced features the last week or so. Kind of feel like I've dusted off an old Nintendo Power Glove except it's actually got power.\n",
+				"date_published": "2022-12-19T09:51:55-05:00",
+				"url": "https://darby3.micro.blog/2022/12/19/spend-a-lot.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/16/for-those-of.html",
+				
+				"content_html": "<p>For those of you playing along at home as I move this git branch from one repo to another via git format-patch and git am, I&rsquo;m currently flying around Maximilian in the closing sequence of the 1979 Disney film <em>The Black Hole</em>.</p>\n",
+				"content_text": "For those of you playing along at home as I move this git branch from one repo to another via git format-patch and git am, I'm currently flying around Maximilian in the closing sequence of the 1979 Disney film *The Black Hole*.\n",
+				"date_published": "2022-12-16T12:33:39-05:00",
+				"url": "https://darby3.micro.blog/2022/12/16/for-those-of.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/16/introduce-yourself-with.html",
+				
+				"content_html": "<p>📺 Introduce yourself with 5 TV shows</p>\n<ul>\n<li><em>The Leftovers</em></li>\n<li><em>Halt and Catch Fire</em></li>\n<li><em>Battlestar Gallactica</em></li>\n<li><em>Twin Peaks</em></li>\n<li><em>The Americans</em></li>\n</ul>\n<p>Brett made this easy, as I was able to just <a href=\"https://brett.micro.blog/2022/12/15/introduce-yourself-with.html\">copy the bulk of his list</a>.</p>\n",
+				"content_text": "📺 Introduce yourself with 5 TV shows\r\n\r\n- *The Leftovers*\r\n- *Halt and Catch Fire*\r\n- *Battlestar Gallactica*\r\n- *Twin Peaks*\r\n- *The Americans*\r\n\r\nBrett made this easy, as I was able to just [copy the bulk of his list](https://brett.micro.blog/2022/12/15/introduce-yourself-with.html).\n",
+				"date_published": "2022-12-16T10:43:36-05:00",
+				"url": "https://darby3.micro.blog/2022/12/16/introduce-yourself-with.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/15/if-you-notice.html",
+				
+				"content_html": "<p>If you notice any disturbances in the space-time continuum today that&rsquo;s me trying to move a complex git branch from one repository to another tangentially-related respository. My apologies for the inconvenience&hellip;</p>\n",
+				"content_text": "If you notice any disturbances in the space-time continuum today that's me trying to move a complex git branch from one repository to another tangentially-related respository. My apologies for the inconvenience...\n",
+				"date_published": "2022-12-15T10:44:46-05:00",
+				"url": "https://darby3.micro.blog/2022/12/15/if-you-notice.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2022/12/14/completely-fallen-off.html",
 				
 				"content_html": "<p>Completely fallen off the Advent of Code wagon because life. Still, hoping to play catch-up. Eventually. (It <em>is</em> interesting how solving these puzzles opens up ideas relevant to my actual work.)</p>\n",
