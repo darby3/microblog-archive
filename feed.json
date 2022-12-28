@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2022/12/28/first-run-in.html",
+				
+				"content_html": "<p>First run in two and a half weeks today. That was fun. Back to the cookies now.</p>\n",
+				"content_text": "First run in two and a half weeks today. That was fun. Back to the cookies now.\n",
+				"date_published": "2022-12-28T13:29:58-05:00",
+				"url": "https://darby3.micro.blog/2022/12/28/first-run-in.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/22/made-it-up.html",
+				
+				"content_html": "<p>Made it up through day 10 of Advent of Code. Probably won&rsquo;t get past that as I slowly descend into a bottomless pit of cheese and holiday torpor.</p>\n",
+				"content_text": "Made it up through day 10 of Advent of Code. Probably won't get past that as I slowly descend into a bottomless pit of cheese and holiday torpor.\n",
+				"date_published": "2022-12-22T13:56:38-05:00",
+				"url": "https://darby3.micro.blog/2022/12/22/made-it-up.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/21/finally-pulling-together.html",
+				
+				"content_html": "<p>Finally pulling together the next issue of my books newsletter. I guess I just have to go long enough between issues that I literally annoy myself into feeling like I have to write the next one. 📚</p>\n",
+				"content_text": "Finally pulling together the next issue of my books newsletter. I guess I just have to go long enough between issues that I literally annoy myself into feeling like I have to write the next one. 📚\n",
+				"date_published": "2022-12-21T15:40:57-05:00",
+				"url": "https://darby3.micro.blog/2022/12/21/finally-pulling-together.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/21/ill-hit-books.html",
+				
+				"content_html": "<p>I&rsquo;ll hit <a href=\"https://app.thestorygraph.com/stats/darby3?year=2022\">43 books for the year</a> today. It&rsquo;s been a weird year! On the one hand that number is low for me. On the other, I&rsquo;ve read more 500+ page books this year than I have since I&rsquo;ve started keeping track, I think. 📚</p>\n",
+				"content_text": "I'll hit [43 books for the year](https://app.thestorygraph.com/stats/darby3?year=2022) today. It's been a weird year! On the one hand that number is low for me. On the other, I've read more 500+ page books this year than I have since I've started keeping track, I think. 📚\n",
+				"date_published": "2022-12-21T09:52:15-05:00",
+				"url": "https://darby3.micro.blog/2022/12/21/ill-hit-books.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2022/12/20/finally-dipped-back.html",
+				
+				"content_html": "<p>Finally dipped back into Advent of Code. Got horrifyingly hung up on day 7 part 1. Because of a very, very, very silly bug. Good news is I think I get to rip out half of what I did for part 2. (Famous last words.)</p>\n",
+				"content_text": "Finally dipped back into Advent of Code. Got horrifyingly hung up on day 7 part 1. Because of a very, very, very silly bug. Good news is I think I get to rip out half of what I did for part 2. (Famous last words.)\n",
+				"date_published": "2022-12-20T14:27:13-05:00",
+				"url": "https://darby3.micro.blog/2022/12/20/finally-dipped-back.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2022/12/19/spend-a-lot.html",
 				
 				"content_html": "<p>Spend a lot of time in <a href=\"https://iterm2.com/\">iTerm2</a>. Finding reasons to dip into more advanced features the last week or so. Kind of feel like I&rsquo;ve dusted off an old Nintendo Power Glove except it&rsquo;s actually got power.</p>\n",
