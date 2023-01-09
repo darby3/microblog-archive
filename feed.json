@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/01/09/im-not-sure.html",
+				
+				"content_html": "<p>I&rsquo;m not sure if I can keep this up, and this is probably a dumb thing to try to do, but: I wonder how long I can go listening to a different album each time I go out for a run this year? 🎶🏃</p>\n",
+				"content_text": "I'm not sure if I can keep this up, and this is probably a dumb thing to try to do, but: I wonder how long I can go listening to a different album each time I go out for a run this year? 🎶🏃\n",
+				"date_published": "2023-01-09T13:57:12-05:00",
+				"url": "https://darby3.micro.blog/2023/01/09/im-not-sure.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/01/05/in-case-you.html",
+				
+				"content_html": "<p>In case you experience any localized spatial/temporal displacement effects, that&rsquo;s me updating eight-month-old git branches to catch up with all recent changes. Then moving one of them to a separate, semi-releated—but different—repository.</p>\n",
+				"content_text": "In case you experience any localized spatial/temporal displacement effects, that's me updating eight-month-old git branches to catch up with all recent changes. Then moving one of them to a separate, semi-releated—but different—repository. \n",
+				"date_published": "2023-01-05T14:01:50-05:00",
+				"url": "https://darby3.micro.blog/2023/01/05/in-case-you.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/01/04/still-feeling-lightly.html",
+				
+				"content_html": "<p>Still feeling lightly unmoored from reality following the holidays. I don&rsquo;t mind it.</p>\n",
+				"content_text": "Still feeling lightly unmoored from reality following the holidays. I don't mind it.\n",
+				"date_published": "2023-01-04T13:46:11-05:00",
+				"url": "https://darby3.micro.blog/2023/01/04/still-feeling-lightly.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/01/03/moved-my-books.html",
+				
+				"content_html": "<p><a href=\"https://tdaoc.substack.com/\">Moved my books newsletter over to Substack</a>. Sent out a little hello post to…well, say hello. 📚</p>\n",
+				"content_text": "[Moved my books newsletter over to Substack](https://tdaoc.substack.com/). Sent out a little hello post to…well, say hello. 📚\n",
+				"date_published": "2023-01-03T19:27:19-05:00",
+				"url": "https://darby3.micro.blog/2023/01/03/moved-my-books.html",
+				"tags": ["reading"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/01/03/looking-at-the.html",
 				
 				"content_html": "<p>Looking at the calendar, I&rsquo;m realizing that to do the half marathon in April, I&rsquo;d want to shift into training mode in about three weeks. Which feels&hellip;optimistic. I&rsquo;m thinking the race in May seems more realistic right now. 🏃</p>\n",
