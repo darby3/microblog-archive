@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/01/23/finally-figured-out.html",
+				
+				"content_html": "<p>Finally figured out how to tap the Strava API to get a count of miles run since an arbitrary date. Now, can I turn that into an actual usable app, sometime&hellip;</p>\n",
+				"content_text": "Finally figured out how to tap the Strava API to get a count of miles run since an arbitrary date. Now, can I turn that into an actual usable app, sometime...\n",
+				"date_published": "2023-01-23T09:46:19-05:00",
+				"url": "https://darby3.micro.blog/2023/01/23/finally-figured-out.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/01/20/current-status-wondering.html",
+				
+				"content_html": "<p>Current status: wondering if I should measure my desk or just assume it&rsquo;s large enough that I could hide under it until further notice.</p>\n",
+				"content_text": "Current status: wondering if I should measure my desk or just assume it's large enough that I could hide under it until further notice.\n",
+				"date_published": "2023-01-20T14:45:15-05:00",
+				"url": "https://darby3.micro.blog/2023/01/20/current-status-wondering.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/01/18/195900.html",
+				"title": "Current running plans 🏃",
+				"content_html": "<p>&hellip;which I am mostly throwing down in writing so I stop second-guessing myself.</p>\n<p>I was getting into analysis paralysis over deciding between doing an April half marathon (which would probably have milder weather, but would mean shifting back into training mode like <em>right now oh my god I have to go run 300 miles today</em>) vs a May half marathon (which would give me more time to prepare, but in Cleveland, there&rsquo;s a much higher chance the weather being real gross).</p>\n<p>I&rsquo;ve decided—or, I am deciding!—to go for the May race. Real hard to imagine running in potential 70-80 degree temperatures in four months! But, this means I can spend the next six weeks focusing on estasblishing a base, which is something I haven&rsquo;t really consciously done in a long time. I&rsquo;ve spent the last year pretty much rising up to races and then recovering from them (sometimes). Getting consistent for a bit feels like the right choice.</p>\n<p>Right now I&rsquo;m targeting four easy runs a week, totalling about 16–18 miles, maybe with some mildly faster runs or informal interval experiments to mix things up. That both feels high for me and also probably about right. (I keep reminding myself: &ldquo;You&rsquo;ve done a half marathon. You probably <em>should</em> be running more than you were when you first started out!&quot;) I&rsquo;ve ramped up to this point a bit quickly the last few weeks, coming out of my December downtime, but now that I&rsquo;m here, I think I can happily linger at this level for a bit.</p>\n<p>Once those six weeks are up, and I&rsquo;m hopefully feeling good, I&rsquo;ll shift into a 12 week training plan. I&rsquo;m working on a plan that&rsquo;s a bit more ambitious than I tackled in the fall, complete with actual solid pace goals this time out. Still not planning on breaking any records (ever), but I think I can safely target a race time significantly lower faster than what I did in the fall. Unless of course the heat kills me dead the way the cold killed me dead in November.</p>\n",
+				"content_text": "...which I am mostly throwing down in writing so I stop second-guessing myself.\n\nI was getting into analysis paralysis over deciding between doing an April half marathon (which would probably have milder weather, but would mean shifting back into training mode like *right now oh my god I have to go run 300 miles today*) vs a May half marathon (which would give me more time to prepare, but in Cleveland, there's a much higher chance the weather being real gross). \n\nI've decided—or, I am deciding!—to go for the May race. Real hard to imagine running in potential 70-80 degree temperatures in four months! But, this means I can spend the next six weeks focusing on estasblishing a base, which is something I haven't really consciously done in a long time. I've spent the last year pretty much rising up to races and then recovering from them (sometimes). Getting consistent for a bit feels like the right choice.\n\nRight now I'm targeting four easy runs a week, totalling about 16–18 miles, maybe with some mildly faster runs or informal interval experiments to mix things up. That both feels high for me and also probably about right. (I keep reminding myself: \"You've done a half marathon. You probably *should* be running more than you were when you first started out!\") I've ramped up to this point a bit quickly the last few weeks, coming out of my December downtime, but now that I'm here, I think I can happily linger at this level for a bit.\n\nOnce those six weeks are up, and I'm hopefully feeling good, I'll shift into a 12 week training plan. I'm working on a plan that's a bit more ambitious than I tackled in the fall, complete with actual solid pace goals this time out. Still not planning on breaking any records (ever), but I think I can safely target a race time significantly lower faster than what I did in the fall. Unless of course the heat kills me dead the way the cold killed me dead in November.\n",
+				"date_published": "2023-01-18T19:59:00-05:00",
+				"url": "https://darby3.micro.blog/2023/01/18/195900.html",
+				"tags": ["running"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/01/14/okayi-think-ive.html",
 				
 				"content_html": "<p>Okay…I think I’ve re-re-re-talked myself out of doing the April race and back to focusing the May race…I think. Maybe. Until I think about it some more…maybe. 🏃</p>\n",
@@ -465,7 +490,7 @@
 				"id": "http://darby3.micro.blog/2022/11/20/full-write-up.html",
 				
 				"content_html": "<p>Full write up to come, but for now: I did it! I ran my first half marathon. In 20 degree weather. With really breezy breezes. (I kind of can’t believe I actually did that.) 🏃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Full write up to come, but for now: I did it! I ran my first half marathon. In 20 degree weather. With really breezy breezes. (I kind of can’t believe I actually did that.) 🏃\n\n<img src=\"uploads/2022/0c81c7cc52.jpg\" width=\"450\" height=\"600\" alt=\"Darby holding Fall Classic 2022 half marathon finisher's coaster\">\n",
+				"content_text": "Full write up to come, but for now: I did it! I ran my first half marathon. In 20 degree weather. With really breezy breezes. (I kind of can’t believe I actually did that.) 🏃\n\n<img src=\"https://darby3.micro.blog/uploads/2022/0c81c7cc52.jpg\" width=\"450\" height=\"600\" alt=\"Darby holding Fall Classic 2022 half marathon finisher's coaster\">\n",
 				"date_published": "2022-11-20T17:39:16-05:00",
 				"url": "https://darby3.micro.blog/2022/11/20/full-write-up.html",
 				"tags": ["running"]
