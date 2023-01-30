@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/01/30/flipping-through-the.html",
+				
+				"content_html": "<p>Flipping through the State of JS survey results from 2022. It&rsquo;s, uh, kind of a mess out there, huh?</p>\n",
+				"content_text": "Flipping through the State of JS survey results from 2022. It's, uh, kind of a mess out there, huh?\n",
+				"date_published": "2023-01-30T10:18:52-05:00",
+				"url": "https://darby3.micro.blog/2023/01/30/flipping-through-the.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/01/25/rereading-the-peripheral.html",
+				
+				"content_html": "<p>Rereading <em>The Peripheral</em> by William Gibson. The earliest date they can “go back to” is 2023 because something got more complex that year&hellip; 😳 📚</p>\n",
+				"content_text": "Rereading _The Peripheral_ by William Gibson. The earliest date they can “go back to” is 2023 because something got more complex that year... 😳 📚\n",
+				"date_published": "2023-01-25T07:58:41-05:00",
+				"url": "https://darby3.micro.blog/2023/01/25/rereading-the-peripheral.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/01/23/i-need-a.html",
+				
+				"content_html": "<p>I need &hellip; a checklist creator that doesn&rsquo;t let me enter duplicate items. This doesn&rsquo;t feel like it should be impossible.</p>\n",
+				"content_text": "I need ... a checklist creator that doesn't let me enter duplicate items. This doesn't feel like it should be impossible.\n",
+				"date_published": "2023-01-23T10:37:28-05:00",
+				"url": "https://darby3.micro.blog/2023/01/23/i-need-a.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/01/23/finally-figured-out.html",
 				
 				"content_html": "<p>Finally figured out how to tap the Strava API to get a count of miles run since an arbitrary date. Now, can I turn that into an actual usable app, sometime&hellip;</p>\n",
