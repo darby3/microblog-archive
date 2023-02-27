@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/02/26/i-need-to.html",
+				
+				"content_html": "<p>I need to find my way back into a creative practice. I’ve been out of practice for too long.</p>\n",
+				"content_text": "I need to find my way back into a creative practice. I’ve been out of practice for too long. \n",
+				"date_published": "2023-02-26T20:44:24-05:00",
+				"url": "https://darby3.micro.blog/2023/02/26/i-need-to.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/02/22/i-shouldnt-complain.html",
+				
+				"content_html": "<p>I shouldn’t complain about [redacted] in public so I won’t but oh god the need is real.</p>\n",
+				"content_text": "I shouldn’t complain about [redacted] in public so I won’t but oh god the need is real. \n",
+				"date_published": "2023-02-22T17:07:17-05:00",
+				"url": "https://darby3.micro.blog/2023/02/22/i-shouldnt-complain.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/02/20/in-other-news.html",
+				
+				"content_html": "<p>(In other news, when it comes to pretty much anything <em>other</em> than running, February can&rsquo;t end soon enough.)</p>\n",
+				"content_text": "(In other news, when it comes to pretty much anything *other* than running, February can't end soon enough.)\n",
+				"date_published": "2023-02-20T09:24:24-05:00",
+				"url": "https://darby3.micro.blog/2023/02/20/in-other-news.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/02/20/last-week-wrapped.html",
 				
 				"content_html": "<p>Last week: wrapped up six weeks of doing 16-18 miles weekly base running. Feeling okay! Was planning on going for seven, but decided to take this coming week down to 12-13 for a slight rest before activating race training mode next week. 🏃</p>\n",
