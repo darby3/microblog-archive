@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/03/11/playing-around-with.html",
+				
+				"content_html": "<p>Playing around with Affinity Designer. Feels like I could have fun with this if I got the hang of it and also actually gave myself some creative direction to go in.</p>\n",
+				"content_text": "Playing around with Affinity Designer. Feels like I could have fun with this if I got the hang of it and also actually gave myself some creative direction to go in. \n",
+				"date_published": "2023-03-11T12:31:12-05:00",
+				"url": "https://darby3.micro.blog/2023/03/11/playing-around-with.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/07/moving-to-a.html",
+				
+				"content_html": "<p>Moving to a new laptop feels like the right time to move from bash to zsh. Why not. Everything is already chaos, after all!</p>\n",
+				"content_text": "Moving to a new laptop feels like the right time to move from bash to zsh. Why not. Everything is already chaos, after all!\n",
+				"date_published": "2023-03-07T11:51:54-05:00",
+				"url": "https://darby3.micro.blog/2023/03/07/moving-to-a.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/03/04/finally-feel-like.html",
 				
 				"content_html": "<p>Finally feel like maybe I’m on the other side of this round of daycare crud. Will our hero get those running shoes back on today? Stay tuned…</p>\n",
