@@ -7,11 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/03/17/i-like-doing.html",
+				
+				"content_html": "<p>I like doing the code. Why would I want to let the code editor do the code for me?</p>\n",
+				"content_text": "I like doing the code. Why would I want to let the code editor do the code for me? \n",
+				"date_published": "2023-03-17T10:12:20-04:00",
+				"url": "https://darby3.micro.blog/2023/03/17/i-like-doing.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/14/got-a-new.html",
+				
+				"content_html": "<p>Got a new <a href=\"https://open.substack.com/pub/tdaoc/p/thumb-drives-and-oven-clocks-issue-1ce?utm_source=direct&amp;r=2xyqa&amp;utm_campaign=post&amp;utm_medium=web\">newsletter issue</a> up, in which I talk about William Gibson and Jill Lepore and Ted Conover and maaaaaybe I out myself as part of the AI resistance. 📚</p>\n",
+				"content_text": "Got a new [newsletter issue](https://open.substack.com/pub/tdaoc/p/thumb-drives-and-oven-clocks-issue-1ce?utm_source=direct&r=2xyqa&utm_campaign=post&utm_medium=web) up, in which I talk about William Gibson and Jill Lepore and Ted Conover and maaaaaybe I out myself as part of the AI resistance. 📚\n",
+				"date_published": "2023-03-14T19:17:52-04:00",
+				"url": "https://darby3.micro.blog/2023/03/14/got-a-new.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/14/the-first-two.html",
+				
+				"content_html": "<p>The first two weeks of race training were a mess. My body hurts! So for last night&rsquo;s tempo run—in active, windy snow—I did not plan to even try for my tempo pace. But I wound up running two seconds faster than the slowest end of my target range. It counts! Also maybe I have snow delirium now. 🏃</p>\n",
+				"content_text": "The first two weeks of race training were a mess. My body hurts! So for last night's tempo run—in active, windy snow—I did not plan to even try for my tempo pace. But I wound up running two seconds faster than the slowest end of my target range. It counts! Also maybe I have snow delirium now. 🏃\n",
+				"date_published": "2023-03-14T09:38:56-04:00",
+				"url": "https://darby3.micro.blog/2023/03/14/the-first-two.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/13/anybody-out-there.html",
+				
+				"content_html": "<p>Anybody out there have positive experiences with any newsletter subscription/reader apps? Like, I want to move a handful of email newsletters out of my inbox and into a dedicated app. Preferably without having to pay for the privilege (or I&rsquo;d probably just do it in Feedly).</p>\n",
+				"content_text": "Anybody out there have positive experiences with any newsletter subscription/reader apps? Like, I want to move a handful of email newsletters out of my inbox and into a dedicated app. Preferably without having to pay for the privilege (or I'd probably just do it in Feedly).\n",
+				"date_published": "2023-03-13T11:33:41-04:00",
+				"url": "https://darby3.micro.blog/2023/03/13/anybody-out-there.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/13/while-i-dont.html",
+				
+				"content_html": "<p>While I don&rsquo;t exactly care about the Oscars, there is something lightly refreshing about waking up to a world in which <em>Everything Everywhere All At Once</em> and Michelle Yeoh take home the big wins.</p>\n",
+				"content_text": "While I don't exactly care about the Oscars, there is something lightly refreshing about waking up to a world in which *Everything Everywhere All At Once* and Michelle Yeoh take home the big wins.\n",
+				"date_published": "2023-03-13T11:16:41-04:00",
+				"url": "https://darby3.micro.blog/2023/03/13/while-i-dont.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/12/just-realized-my.html",
+				
+				"content_html": "<p>Just realized my watch did not actually jump ahead this morning overnight. Well, there goes that hour.</p>\n",
+				"content_text": "Just realized my watch did not actually jump ahead this morning overnight. Well, there goes that hour. \n",
+				"date_published": "2023-03-12T11:15:30-04:00",
+				"url": "https://darby3.micro.blog/2023/03/12/just-realized-my.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/11/211946.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/d332b7f9e3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-11T22:19:46-04:00",
+				"url": "https://darby3.micro.blog/2023/03/11/211946.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/03/11/playing-around-with.html",
 				
 				"content_html": "<p>Playing around with Affinity Designer. Feels like I could have fun with this if I got the hang of it and also actually gave myself some creative direction to go in.</p>\n",
 				"content_text": "Playing around with Affinity Designer. Feels like I could have fun with this if I got the hang of it and also actually gave myself some creative direction to go in. \n",
-				"date_published": "2023-03-11T12:31:12-05:00",
+				"date_published": "2023-03-11T13:31:12-04:00",
 				"url": "https://darby3.micro.blog/2023/03/11/playing-around-with.html"
 			},
 			{
@@ -19,7 +77,7 @@
 				
 				"content_html": "<p>Moving to a new laptop feels like the right time to move from bash to zsh. Why not. Everything is already chaos, after all!</p>\n",
 				"content_text": "Moving to a new laptop feels like the right time to move from bash to zsh. Why not. Everything is already chaos, after all!\n",
-				"date_published": "2023-03-07T11:51:54-05:00",
+				"date_published": "2023-03-07T12:51:54-04:00",
 				"url": "https://darby3.micro.blog/2023/03/07/moving-to-a.html"
 			},
 			{
@@ -27,7 +85,7 @@
 				
 				"content_html": "<p>Finally feel like maybe I’m on the other side of this round of daycare crud. Will our hero get those running shoes back on today? Stay tuned…</p>\n",
 				"content_text": "Finally feel like maybe I’m on the other side of this round of daycare crud. Will our hero get those running shoes back on today? Stay tuned…\n",
-				"date_published": "2023-03-04T10:08:50-05:00",
+				"date_published": "2023-03-04T11:08:50-04:00",
 				"url": "https://darby3.micro.blog/2023/03/04/finally-feel-like.html"
 			},
 			{
@@ -35,7 +93,7 @@
 				
 				"content_html": "<p>Actually bagged my run last night. Still battling the daycare crud. I guess week one of race training is the one week I’m most comfortable missing runs during, but…yuck.</p>\n",
 				"content_text": "Actually bagged my run last night. Still battling the daycare crud. I guess week one of race training is the one week I’m most comfortable missing runs during, but…yuck. \n",
-				"date_published": "2023-03-02T10:04:31-05:00",
+				"date_published": "2023-03-02T11:04:31-04:00",
 				"url": "https://darby3.micro.blog/2023/03/02/actually-bagged-my.html"
 			},
 			{
