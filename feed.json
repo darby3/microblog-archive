@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/04/04/i-think-a.html",
+				
+				"content_html": "<p>I think a lot about the adage that you should write code for humans, not machines, as humans start making machines write the code for them.</p>\n",
+				"content_text": "I think a lot about the adage that you should write code for humans, not machines, as humans start making machines write the code for them.\n",
+				"date_published": "2023-04-04T10:15:33-04:00",
+				"url": "https://darby3.micro.blog/2023/04/04/i-think-a.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/04/02/with-yesterdays-miler.html",
+				
+				"content_html": "<p>With yesterday’s 8 miler, I hit 24 miles this week, my new most-ever-miles week. Which, all things going well, I’ll blow past again two weeks from now. 🏃</p>\n",
+				"content_text": "With yesterday’s 8 miler, I hit 24 miles this week, my new most-ever-miles week. Which, all things going well, I’ll blow past again two weeks from now. 🏃\n",
+				"date_published": "2023-04-02T13:43:59-04:00",
+				"url": "https://darby3.micro.blog/2023/04/02/with-yesterdays-miler.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/31/alright-todays-the.html",
+				
+				"content_html": "<p>Alright today&rsquo;s the day going to start the March photoblogging cha—ah&hellip;ahaha. Wait, what happened to March?&hellip;</p>\n",
+				"content_text": "Alright today's the day going to start the March photoblogging cha—ah...ahaha. Wait, what happened to March?...\n",
+				"date_published": "2023-03-31T16:02:44-04:00",
+				"url": "https://darby3.micro.blog/2023/03/31/alright-todays-the.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/30/oh-no-oh.html",
+				
+				"content_html": "<p>Oh no, oh boy, oh no, oh boy: <a href=\"https://www.stereogum.com/2218615/90s-shoegaze-greats-the-catherine-wheel-are-teasing-something/news/\">The Catherine Wheel is &hellip; doing something</a>.</p>\n",
+				"content_text": "Oh no, oh boy, oh no, oh boy: [The Catherine Wheel is ... doing something](https://www.stereogum.com/2218615/90s-shoegaze-greats-the-catherine-wheel-are-teasing-something/news/).\n",
+				"date_published": "2023-03-30T09:21:14-04:00",
+				"url": "https://darby3.micro.blog/2023/03/30/oh-no-oh.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/03/29/with-last-nights.html",
+				
+				"content_html": "<p>With last night&rsquo;s easy 5 miler run I crossed the 100 km/~62 mile mark for the month. I&rsquo;m 3 for 3 this year. I won&rsquo;t go 12 for 12—I&rsquo;m planning a break after the May race—but I am curious to see how many months I&rsquo;ll do that, this year. 🏃</p>\n",
+				"content_text": "With last night's easy 5 miler run I crossed the 100 km/~62 mile mark for the month. I'm 3 for 3 this year. I won't go 12 for 12—I'm planning a break after the May race—but I am curious to see how many months I'll do that, this year. 🏃\n",
+				"date_published": "2023-03-29T09:45:28-04:00",
+				"url": "https://darby3.micro.blog/2023/03/29/with-last-nights.html",
+				"tags": ["running"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/03/28/i-dont-want.html",
 				
 				"content_html": "<p>I don&rsquo;t want to jinx anything, but last night&rsquo;s &ldquo;tempo&rdquo; run was a confidence booster. Nailed my target pace range for 35 minutes, and I&rsquo;m not feeling too janky today. Hoping maybe I&rsquo;ve powered through to the point where it all feels kind of fun again. 🏃</p>\n",
