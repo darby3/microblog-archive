@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/05/18/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250065841\">The Fifty-Year Mission: The Complete, Uncensored, Unauthorized Oral History of Star Trek: The First 25 Years</a> by Edward Gross 📚</p>\n",
+				"content_text": "Currently reading: [The Fifty-Year Mission: The Complete, Uncensored, Unauthorized Oral History of Star Trek: The First 25 Years](https://micro.blog/books/9781250065841) by Edward Gross 📚\n",
+				"date_published": "2023-05-18T14:34:44-04:00",
+				"url": "https://darby3.micro.blog/2023/05/18/currently-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/13/oh-noi-did.html",
+				
+				"content_html": "<p>Oh no…I did it upside down! Better take it apart and do it right next time. 😁</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oh no…I did it upside down! Better take it apart and do it right next time. 😁\n\n<img src=\"uploads/2023/f23a531eda.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a donuts jigsaw puzzle and its box. The joke is the puzzle really doesn’t have a top or bottom—but I have the puzzle oriented opposite to the image on the box. \">\n",
+				"date_published": "2023-05-13T10:45:10-04:00",
+				"url": "https://darby3.micro.blog/2023/05/13/oh-noi-did.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/11/im-at-about.html",
+				
+				"content_html": "<p>I&rsquo;m at about 130 pages left in <em>Middlemarch</em>. The end is in sight&hellip; 📚</p>\n",
+				"content_text": "I'm at about 130 pages left in *Middlemarch*. The end is in sight... 📚\n",
+				"date_published": "2023-05-11T17:07:02-04:00",
+				"url": "https://darby3.micro.blog/2023/05/11/im-at-about.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/11/i-have-serious.html",
+				
+				"content_html": "<p>I have serious ai fatigue.</p>\n<p>One might say I have &hellip; faitigue.</p>\n<p>🤡🤖</p>\n",
+				"content_text": "I have serious ai fatigue.\r\n\r\nOne might say I have ... faitigue.\r\n\r\n🤡🤖\n",
+				"date_published": "2023-05-11T11:48:30-04:00",
+				"url": "https://darby3.micro.blog/2023/05/11/i-have-serious.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/05/09/i-think-i.html",
 				
 				"content_html": "<p>I think I know when my peculiar kind of burn-out is setting in when I&rsquo;m looking at my work life and I&rsquo;m looking fondly at coding languages completely unrelated to anything I ever need to do. Like&hellip;yeah&hellip;I wanna clean off the desk and start learning Rust, or something. Hrmf.</p>\n",
