@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/05/24/starting-to-develop.html",
+				
+				"content_html": "<p>Starting to develop a series of coding <em>things</em> that will probably roll out to my <a href=\"https://namingthingsishard.blog/\">Naming Things is Hard</a>, which I syndicate blog to my micro.blog account. (So, FWIW, if you start seeing lots of stuff about JavaScript coming through here, that&rsquo;s why.)</p>\n",
+				"content_text": "Starting to develop a series of coding *things* that will probably roll out to my [Naming Things is Hard](https://namingthingsishard.blog/), which I syndicate blog to my micro.blog account. (So, FWIW, if you start seeing lots of stuff about JavaScript coming through here, that's why.)\n",
+				"date_published": "2023-05-24T14:27:13-04:00",
+				"url": "https://darby3.micro.blog/2023/05/24/starting-to-develop.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/23/forgot-i-had.html",
+				
+				"content_html": "<p>Forgot I had Arc Browser installed. Got the email about an announcement about Arc coming on Thursday. Loaded up Arc again. Still can&rsquo;t think of a good reason to switch from Firefox, or use Arc as an alternate browser. The &ldquo;little&rdquo; browser window is kind of slick, though.</p>\n",
+				"content_text": "Forgot I had Arc Browser installed. Got the email about an announcement about Arc coming on Thursday. Loaded up Arc again. Still can't think of a good reason to switch from Firefox, or use Arc as an alternate browser. The \"little\" browser window is kind of slick, though.\n",
+				"date_published": "2023-05-23T11:43:38-04:00",
+				"url": "https://darby3.micro.blog/2023/05/23/forgot-i-had.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/23/currently-reading-network.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250229847\">Network Effect</a> by Martha Wells 📚</p>\n",
+				"content_text": "Currently reading: [Network Effect](https://micro.blog/books/9781250229847) by Martha Wells 📚\n",
+				"date_published": "2023-05-23T11:42:21-04:00",
+				"url": "https://darby3.micro.blog/2023/05/23/currently-reading-network.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/22/apropos-of-nothing.html",
+				
+				"content_html": "<p>Apropos of nothing, I finally watched <em>Idiocracy</em> over the weekend. 🎬</p>\n",
+				"content_text": "Apropos of nothing, I finally watched *Idiocracy* over the weekend. 🎬\n",
+				"date_published": "2023-05-22T14:07:08-04:00",
+				"url": "https://darby3.micro.blog/2023/05/22/apropos-of-nothing.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/21/finally-kicked-out.html",
+				
+				"content_html": "<p>Finally kicked out <a href=\"https://tdaoc.substack.com/p/thumb-drives-and-oven-clocks-issue-169\">a newsletter issue about <em>Middlemarch</em></a>. 📚</p>\n",
+				"content_text": "Finally kicked out [a newsletter issue about *Middlemarch*](https://tdaoc.substack.com/p/thumb-drives-and-oven-clocks-issue-169). 📚\n",
+				"date_published": "2023-05-21T09:48:45-04:00",
+				"url": "https://darby3.micro.blog/2023/05/21/finally-kicked-out.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/18/every-time-you.html",
+				
+				"content_html": "<p>Every time you see “AI” in a headline: drink.</p>\n",
+				"content_text": "Every time you see “AI” in a headline: drink.\n",
+				"date_published": "2023-05-18T14:38:25-04:00",
+				"url": "https://darby3.micro.blog/2023/05/18/every-time-you.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/05/18/currently-reading-the.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250065841\">The Fifty-Year Mission: The Complete, Uncensored, Unauthorized Oral History of Star Trek: The First 25 Years</a> by Edward Gross 📚</p>\n",
