@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/05/31/my-processing-community.html",
+				
+				"content_html": "<p>My Processing Community Catalog arrived last week.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "My Processing Community Catalog arrived last week. \n\n<img src=\"uploads/2023/1bf1391e08.jpg\" width=\"450\" height=\"600\" alt=\"Hardcover book. (Thick.)\"><img src=\"uploads/2023/2a2a590bed.jpg\" width=\"450\" height=\"600\" alt=\"Hardcover book, laying down. (Thick.)\">\n",
+				"date_published": "2023-05-31T10:25:06-04:00",
+				"url": "https://darby3.micro.blog/2023/05/31/my-processing-community.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/29/did-a-puzzle.html",
+				
+				"content_html": "<p>Did a puzzle.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Did a puzzle. \n\n<img src=\"uploads/2023/0a046f697f.jpg\" width=\"450\" height=\"600\" alt=\"49 piece clear acrylic square jigsaw puzzle\"><img src=\"uploads/2023/8be8f5430e.jpg\" width=\"450\" height=\"600\" alt=\"closeup of puzzle detail\">\n",
+				"date_published": "2023-05-29T09:58:52-04:00",
+				"url": "https://darby3.micro.blog/2023/05/29/did-a-puzzle.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/29/i-think-the.html",
+				
+				"content_html": "<p>I think the reality simulator just glitched: <a href=\"https://pitchfork.com/news/nine-inch-nails-trent-reznor-and-atticus-ross-score-new-movie-teenage-mutant-ninja-turtles-mutant-mayhem/\">“Nine Inch Nails’ Trent Reznor and Atticus Ross Score New Movie Teenage Mutant Ninja Turtles: Mutant Mayhem”</a></p>\n",
+				"content_text": "I think the reality simulator just glitched: [“Nine Inch Nails’ Trent Reznor and Atticus Ross Score New Movie Teenage Mutant Ninja Turtles: Mutant Mayhem”](https://pitchfork.com/news/nine-inch-nails-trent-reznor-and-atticus-ross-score-new-movie-teenage-mutant-ninja-turtles-mutant-mayhem/)\n",
+				"date_published": "2023-05-29T09:55:31-04:00",
+				"url": "https://darby3.micro.blog/2023/05/29/i-think-the.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/26/new-thunderbird-logo.html",
+				
+				"content_html": "<p><a href=\"https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/\">New Thunderbird logo coming</a>! No more Thundermullet! Cool!</p>\n",
+				"content_text": "[New Thunderbird logo coming](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)! No more Thundermullet! Cool!\n",
+				"date_published": "2023-05-26T10:59:39-04:00",
+				"url": "https://darby3.micro.blog/2023/05/26/new-thunderbird-logo.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/05/24/starting-to-develop.html",
 				
 				"content_html": "<p>Starting to develop a series of coding <em>things</em> that will probably roll out to my <a href=\"https://namingthingsishard.blog/\">Naming Things is Hard</a>, which I syndicate blog to my micro.blog account. (So, FWIW, if you start seeing lots of stuff about JavaScript coming through here, that&rsquo;s why.)</p>\n",
@@ -69,7 +101,7 @@
 				"id": "http://darby3.micro.blog/2023/05/13/oh-noi-did.html",
 				
 				"content_html": "<p>Oh no…I did it upside down! Better take it apart and do it right next time. 😁</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh no…I did it upside down! Better take it apart and do it right next time. 😁\n\n<img src=\"uploads/2023/f23a531eda.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a donuts jigsaw puzzle and its box. The joke is the puzzle really doesn’t have a top or bottom—but I have the puzzle oriented opposite to the image on the box. \">\n",
+				"content_text": "Oh no…I did it upside down! Better take it apart and do it right next time. 😁\n\n<img src=\"https://cdn.uploads.micro.blog/69511/2023/f23a531eda.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a donuts jigsaw puzzle and its box. The joke is the puzzle really doesn’t have a top or bottom—but I have the puzzle oriented opposite to the image on the box. \">\n",
 				"date_published": "2023-05-13T10:45:10-04:00",
 				"url": "https://darby3.micro.blog/2023/05/13/oh-noi-did.html"
 			},
@@ -102,7 +134,7 @@
 				"id": "http://darby3.micro.blog/2023/05/08/got-that-jigsaw.html",
 				
 				"content_html": "<p>Got that jigsaw puzzle fever. 🧩</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got that jigsaw puzzle fever. 🧩\n\n<img src=\"uploads/2023/2dfcd6b7e1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Got that jigsaw puzzle fever. 🧩\n\n<img src=\"https://cdn.uploads.micro.blog/69511/2023/2dfcd6b7e1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-08T00:14:16-04:00",
 				"url": "https://darby3.micro.blog/2023/05/08/got-that-jigsaw.html"
 			},
@@ -110,7 +142,7 @@
 				"id": "http://darby3.micro.blog/2023/05/07/my-kids-are.html",
 				
 				"content_html": "<p>My kids are building up a ginormous collection of Legos. 1980s me is looking forward in time with true jealousy.</p>\n<p>Someday they’ll get bored and move on…and then I’m repossessing the entire set for myself. Muahahaha.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My kids are building up a ginormous collection of Legos. 1980s me is looking forward in time with true jealousy. \n\nSomeday they’ll get bored and move on…and then I’m repossessing the entire set for myself. Muahahaha. \n\n<img src=\"uploads/2023/4279eb2054.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "My kids are building up a ginormous collection of Legos. 1980s me is looking forward in time with true jealousy. \n\nSomeday they’ll get bored and move on…and then I’m repossessing the entire set for myself. Muahahaha. \n\n<img src=\"https://cdn.uploads.micro.blog/69511/2023/4279eb2054.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-05-07T09:48:35-04:00",
 				"url": "https://darby3.micro.blog/2023/05/07/my-kids-are.html"
 			},
