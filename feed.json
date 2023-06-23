@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/06/23/cracking-into-my.html",
+				
+				"content_html": "<p>Cracking into my Father’s Day gift.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Cracking into my Father’s Day gift. \n\n<img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"Jigsaw puzzle pieces sorted by color. \"><img src=\"uploads/2023/fae6e7bf85.jpg\" width=\"450\" height=\"600\" alt=\"Close up of ornate shaped puzzle pieces. \"><img src=\"uploads/2023/248e574e29.jpg\" width=\"450\" height=\"600\" alt=\"Puzzle pieces, one in the shape of a flower. \"><img src=\"uploads/2023/5d3e77eaee.jpg\" width=\"450\" height=\"600\" alt=\"Puzzle pieces, one shaped like a Victorian lady. \">\n",
+				"date_published": "2023-06-23T19:29:19-04:00",
+				"url": "https://darby3.micro.blog/2023/06/23/cracking-into-my.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/06/21/current-status-maybe.html",
+				
+				"content_html": "<p>Current status: maybe actually learning me to do some good regex.</p>\n",
+				"content_text": "Current status: maybe actually learning me to do some good regex.\n",
+				"date_published": "2023-06-21T09:48:19-04:00",
+				"url": "https://darby3.micro.blog/2023/06/21/current-status-maybe.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/06/17/hello-saturday-night.html",
 				
 				"content_html": "<p>Hello Saturday night.</p>\n",
