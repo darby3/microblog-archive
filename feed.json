@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/07/05/the-thought-of.html",
+				
+				"content_html": "<p>The thought of Facebook launching a Twitter app connected to Instagram fills me with immediate and complete social media fatigue. Kind of ready to close down all my accounts everywhere and then go sleep on the forest floor for a month or two.</p>\n",
+				"content_text": "The thought of Facebook launching a Twitter app connected to Instagram fills me with immediate and complete social media fatigue. Kind of ready to close down all my accounts everywhere and then go sleep on the forest floor for a month or two.\n",
+				"date_published": "2023-07-05T10:36:51-04:00",
+				"url": "https://darby3.micro.blog/2023/07/05/the-thought-of.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/07/01/i-havent-freelanced.html",
+				
+				"content_html": "<p>I haven’t freelanced like ever but if anyone needs a gay wedding website I’d be happy to figure out how to take some money in exchange for one. I think I could figure it out.</p>\n",
+				"content_text": "I haven’t freelanced like ever but if anyone needs a gay wedding website I’d be happy to figure out how to take some money in exchange for one. I think I could figure it out. \n",
+				"date_published": "2023-07-01T10:01:46-04:00",
+				"url": "https://darby3.micro.blog/2023/07/01/i-havent-freelanced.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/06/29/currently-reading-google.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781682199251\">Google Glass (Remember the Internet #3)</a> by Quinn Myers 📚</p>\n",
+				"content_text": "Currently reading: [Google Glass (Remember the Internet #3)](https://micro.blog/books/9781682199251) by Quinn Myers 📚\n",
+				"date_published": "2023-06-29T14:40:41-04:00",
+				"url": "https://darby3.micro.blog/2023/06/29/currently-reading-google.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/06/29/chatgpt-is-stealing.html",
+				
+				"content_html": "<p>ChatGPT is <a href=\"https://lithub.com/your-stupid-little-chatgpt-interactions-are-destroying-the-planet-stop/\">stealing all the water</a>. Cool. Great. Good work, everyone.</p>\n",
+				"content_text": "ChatGPT is [stealing all the water](https://lithub.com/your-stupid-little-chatgpt-interactions-are-destroying-the-planet-stop/). Cool. Great. Good work, everyone.\n",
+				"date_published": "2023-06-29T14:08:12-04:00",
+				"url": "https://darby3.micro.blog/2023/06/29/chatgpt-is-stealing.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/06/29/on-the-one.html",
 				
 				"content_html": "<p>On the one hand we don&rsquo;t need another CodePen clone but on the other it&rsquo;s kind of cool that <a href=\"https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/\">MDN made its own</a>, I think?</p>\n",
@@ -214,6 +247,23 @@
 				"content_text": "Forgot I had Arc Browser installed. Got the email about an announcement about Arc coming on Thursday. Loaded up Arc again. Still can't think of a good reason to switch from Firefox, or use Arc as an alternate browser. The \"little\" browser window is kind of slick, though.\n",
 				"date_published": "2023-05-23T11:43:38-04:00",
 				"url": "https://darby3.micro.blog/2023/05/23/forgot-i-had.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/23/currently-reading-network.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250229847\">Network Effect</a> by Martha Wells 📚</p>\n",
+				"content_text": "Currently reading: [Network Effect](https://micro.blog/books/9781250229847) by Martha Wells 📚\n",
+				"date_published": "2023-05-23T11:42:21-04:00",
+				"url": "https://darby3.micro.blog/2023/05/23/currently-reading-network.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/05/22/apropos-of-nothing.html",
+				
+				"content_html": "<p>Apropos of nothing, I finally watched <em>Idiocracy</em> over the weekend. 🎬</p>\n",
+				"content_text": "Apropos of nothing, I finally watched *Idiocracy* over the weekend. 🎬\n",
+				"date_published": "2023-05-22T14:07:08-04:00",
+				"url": "https://darby3.micro.blog/2023/05/22/apropos-of-nothing.html"
 			},
 			{
 				"id": "http://darby3.micro.blog/2023/05/21/finally-kicked-out.html",
