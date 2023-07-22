@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/07/22/while-the-kids.html",
+				
+				"content_html": "<p>While the kids are away, the adults play: after yesterday’s Barbieheimer marathon, today we’re going to Asteroid Impossible… 🎬</p>\n",
+				"content_text": "While the kids are away, the adults play: after yesterday’s Barbieheimer marathon, today we’re going to Asteroid Impossible… 🎬\n",
+				"date_published": "2023-07-22T11:35:36-04:00",
+				"url": "https://darby3.micro.blog/2023/07/22/while-the-kids.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/07/20/after-mondays-postrun.html",
+				
+				"content_html": "<p>After Monday&rsquo;s post-run ice cream cake, last night I had an ice cream sandwich <em>before</em> my run. (Vanilla on homemade chocolate chip cookies.)</p>\n<p>I&rsquo;m not going to say ice cream is an official athletic sports supplement, but, I did run my first sub-ten minute mile since returning from my break&hellip;</p>\n<p>🍪🍨🍪🏃</p>\n",
+				"content_text": "After Monday's post-run ice cream cake, last night I had an ice cream sandwich *before* my run. (Vanilla on homemade chocolate chip cookies.)\r\n\r\nI'm not going to say ice cream is an official athletic sports supplement, but, I did run my first sub-ten minute mile since returning from my break... \r\n\r\n🍪🍨🍪🏃\n",
+				"date_published": "2023-07-20T09:31:38-04:00",
+				"url": "https://darby3.micro.blog/2023/07/20/after-mondays-postrun.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/07/19/currently-reading-personae.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780226079042\">Personae</a> by Sergio de la Pava 📚</p>\n",
+				"content_text": "Currently reading: [Personae](https://micro.blog/books/9780226079042) by Sergio de la Pava 📚\n",
+				"date_published": "2023-07-19T14:29:08-04:00",
+				"url": "https://darby3.micro.blog/2023/07/19/currently-reading-personae.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/07/19/tickets-purchased-going.html",
+				
+				"content_html": "<p>Tickets purchased: going full Barbenheimer this Friday. 🎬</p>\n",
+				"content_text": "Tickets purchased: going full Barbenheimer this Friday. 🎬\n",
+				"date_published": "2023-07-19T12:29:34-04:00",
+				"url": "https://darby3.micro.blog/2023/07/19/tickets-purchased-going.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/07/17/i-had-some.html",
+				
+				"content_html": "<p>I had some ice cream cake after tonight’s run. Because I’m all about balance. 🏃🍰</p>\n",
+				"content_text": "I had some ice cream cake after tonight’s run. Because I’m all about balance. 🏃🍰\n",
+				"date_published": "2023-07-17T23:42:41-04:00",
+				"url": "https://darby3.micro.blog/2023/07/17/i-had-some.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/07/16/at-the-rate.html",
+				
+				"content_html": "<p>At the rate we play we might get through Tears of the Kingdom by the time my kids go off to college… 🎮</p>\n",
+				"content_text": "At the rate we play we might get through Tears of the Kingdom by the time my kids go off to college… 🎮\n",
+				"date_published": "2023-07-16T13:43:07-04:00",
+				"url": "https://darby3.micro.blog/2023/07/16/at-the-rate.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/07/16/finally-beat-breath.html",
+				
+				"content_html": "<p>Finally beat Breath of the Wild. What a ride! 🎮</p>\n",
+				"content_text": "Finally beat Breath of the Wild. What a ride! 🎮\n",
+				"date_published": "2023-07-16T13:42:30-04:00",
+				"url": "https://darby3.micro.blog/2023/07/16/finally-beat-breath.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/07/15/made-it-back.html",
 				
 				"content_html": "<p>Made it back to a five mile run today. Felt good. Getting a bit too used to these rainy runs though… 🏃</p>\n",
