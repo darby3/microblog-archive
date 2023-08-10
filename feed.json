@@ -7,6 +7,75 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/08/10/should-probably-just.html",
+				
+				"content_html": "<p>Should probably just let Autechre have my bank account and laptop loging information so they can take money out of the account and put files into my music library whenever they want to. 🎶</p>\n",
+				"content_text": "Should probably just let Autechre have my bank account and laptop loging information so they can take money out of the account and put files into my music library whenever they want to. 🎶\n",
+				"date_published": "2023-08-10T10:55:28-04:00",
+				"url": "https://darby3.micro.blog/2023/08/10/should-probably-just.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/08/03/found-a-fun.html",
+				
+				"content_html": "<p>Found a fun hidden chart on The StoryGraph. This is neat. 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Found a fun hidden chart on The StoryGraph. This is neat. 📚\n\n<img src=\"uploads/2023/299d5a91bb.png\" width=\"600\" height=\"277\" alt=\"Publication date vs Read date chart for books marked as Read on StoryGraph. \">\n",
+				"date_published": "2023-08-03T23:20:24-04:00",
+				"url": "https://darby3.micro.blog/2023/08/03/found-a-fun.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/08/03/not-here-to.html",
+				
+				"content_html": "<p>Not here to make broad pronouncements except for this: when I’m king of the world, podcast episodes longer than 45 minutes will be punishable by public shunning and rejection from polite society.</p>\n",
+				"content_text": "Not here to make broad pronouncements except for this: when I’m king of the world, podcast episodes longer than 45 minutes will be punishable by public shunning and rejection from polite society. \n",
+				"date_published": "2023-08-03T23:16:33-04:00",
+				"url": "https://darby3.micro.blog/2023/08/03/not-here-to.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/08/03/realizing-that-weighing.html",
+				
+				"content_html": "<p>Realizing that &ldquo;weighing the pros and cons of various running training plans&rdquo; isn&rsquo;t actually my <em>entire</em> personality, but it is a significantly double-digit percentage of it. 🏃</p>\n",
+				"content_text": "Realizing that \"weighing the pros and cons of various running training plans\" isn't actually my *entire* personality, but it is a significantly double-digit percentage of it. 🏃\n",
+				"date_published": "2023-08-03T12:40:48-04:00",
+				"url": "https://darby3.micro.blog/2023/08/03/realizing-that-weighing.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/08/01/hitting-that-i.html",
+				
+				"content_html": "<p>Hitting that “I give up” feeling second day back from vacation: priceless. 🤷</p>\n",
+				"content_text": "Hitting that “I give up” feeling second day back from vacation: priceless. 🤷\n",
+				"date_published": "2023-08-01T11:19:54-04:00",
+				"url": "https://darby3.micro.blog/2023/08/01/hitting-that-i.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/08/01/is-it-a.html",
+				
+				"content_html": "<p>&hellip;Is it a good idea for me to start reading a notoriously challenging, intricate fantasy series in which the books eventually grow to twice the length of the opening novel? Who&rsquo;s to say! But I&rsquo;m feeling good so far (a whopping 80 pages into the first book!). 📚</p>\n",
+				"content_text": "...Is it a good idea for me to start reading a notoriously challenging, intricate fantasy series in which the books eventually grow to twice the length of the opening novel? Who's to say! But I'm feeling good so far (a whopping 80 pages into the first book!). 📚\n",
+				"date_published": "2023-08-01T10:05:26-04:00",
+				"url": "https://darby3.micro.blog/2023/08/01/is-it-a.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/08/01/currently-reading-gardens.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781429926584\">Gardens of the Moon</a> by Steven Erikson 📚</p>\n",
+				"content_text": "Currently reading: [Gardens of the Moon](https://micro.blog/books/9781429926584) by Steven Erikson 📚\n",
+				"date_published": "2023-08-01T09:53:01-04:00",
+				"url": "https://darby3.micro.blog/2023/08/01/currently-reading-gardens.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/08/01/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345444615\">The Elfstones of Shannara (The Shannara Chronicles)</a> by Terry Brooks 📚</p>\n",
+				"content_text": "Finished reading: [The Elfstones of Shannara (The Shannara Chronicles)](https://micro.blog/books/9780345444615) by Terry Brooks 📚\n",
+				"date_published": "2023-08-01T09:52:38-04:00",
+				"url": "https://darby3.micro.blog/2023/08/01/finished-reading-the.html",
+				"tags": ["reading"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/07/31/after-a-week.html",
 				
 				"content_html": "<p>After a week of vacation with the kids I am simultaneously completely refreshed and absolutely worn out beyond recognition. (What day is it, again?)</p>\n",
