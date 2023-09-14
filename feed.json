@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/09/14/nothing-like-a.html",
+				
+				"content_html": "<p>Nothing like a nice total website outage to really spice up the afternoon.</p>\n<p>🌶️ 🥵</p>\n",
+				"content_text": "Nothing like a nice total website outage to really spice up the afternoon.\r\n\r\n🌶️ 🥵\n",
+				"date_published": "2023-09-14T16:24:31-04:00",
+				"url": "https://darby3.micro.blog/2023/09/14/nothing-like-a.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/09/13/psst-hey-ive.html",
+				
+				"content_html": "<p>(Psst. Hey. I’ve got a couple Bluesky invites if anyone’s looking for them.)</p>\n",
+				"content_text": "(Psst. Hey. I’ve got a couple Bluesky invites if anyone’s looking for them.)\n",
+				"date_published": "2023-09-13T20:44:40-04:00",
+				"url": "https://darby3.micro.blog/2023/09/13/psst-hey-ive.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/09/12/our-local-catholic.html",
+				
+				"content_html": "<p><a href=\"https://www.clevescene.com/news/catholic-diocese-of-cleveland-issues-sweeping-anti-lgbtq-policies-at-schools-churches-42711291\">Our local Catholic Diocese has completely lost its collective mind</a>. Absolutely disgusting and shameful.</p>\n",
+				"content_text": "[Our local Catholic Diocese has completely lost its collective mind](https://www.clevescene.com/news/catholic-diocese-of-cleveland-issues-sweeping-anti-lgbtq-policies-at-schools-churches-42711291). Absolutely disgusting and shameful.\n",
+				"date_published": "2023-09-12T10:19:52-04:00",
+				"url": "https://darby3.micro.blog/2023/09/12/our-local-catholic.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/09/09/well-sprained-a.html",
 				
 				"content_html": "<p>Well. Sprained a muscle in my back this week. Off running for a bit. Possibly putting a nail in the race training coffin for the fall half. 🤬</p>\n",
@@ -51,7 +75,7 @@
 				"id": "http://darby3.micro.blog/2023/09/04/we-did-a.html",
 				
 				"content_html": "<p>We did a light 4–5 mile round trip hike through the local national park with the kids yesterday to see some local notable falls. (There’s a parking lot attached to the falls, but it was full.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We did a light 4–5 mile round trip hike through the local national park with the kids yesterday to see some local notable falls. (There’s a parking lot attached to the falls, but it was full.)\n\n<img src=\"uploads/2023/6e7d16b063.jpg\" width=\"450\" height=\"600\" alt=\"Brandywine Falls in the Cuyahoga Valley National Park. (With my son’s thumbs-up gesture in front.)\">\n",
+				"content_text": "We did a light 4–5 mile round trip hike through the local national park with the kids yesterday to see some local notable falls. (There’s a parking lot attached to the falls, but it was full.)\n\n<img src=\"https://cdn.uploads.micro.blog/69511/2023/6e7d16b063.jpg\" width=\"450\" height=\"600\" alt=\"Brandywine Falls in the Cuyahoga Valley National Park. (With my son’s thumbs-up gesture in front.)\">\n",
 				"date_published": "2023-09-04T10:16:46-04:00",
 				"url": "https://darby3.micro.blog/2023/09/04/we-did-a.html"
 			},
