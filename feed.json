@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/10/21/got-did-my.html",
+				
+				"content_html": "<p>Got did my eight mile run this morning. Actual image of me during the last mile:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got did my eight mile run this morning. Actual image of me during the last mile:\n\n<img src=\"uploads/2023/6db3863b20.jpg\" width=\"450\" height=\"600\" alt=\"Spooky mummy zombie face grimacing. \">\n",
+				"date_published": "2023-10-21T14:44:59-04:00",
+				"url": "https://darby3.micro.blog/2023/10/21/got-did-my.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/10/21/a-local-burger.html",
+				
+				"content_html": "<p>A local Burger King had a “Trick or Heat” sign out front. Given that choice, I think I have to go with Michael Mann’s 1995 directorial masterpiece. 🍿</p>\n",
+				"content_text": "A local Burger King had a “Trick or Heat” sign out front. Given that choice, I think I have to go with Michael Mann’s 1995 directorial masterpiece. 🍿\n",
+				"date_published": "2023-10-21T09:19:13-04:00",
+				"url": "https://darby3.micro.blog/2023/10/21/a-local-burger.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/10/19/three-miles-run.html",
+				
+				"content_html": "<p>Three miles run this morning. All things going well on Saturday I&rsquo;ll do eight for the first time since April. Can&rsquo;t lie: kind of waiting for some completely random body part I didn&rsquo;t know I have to suddenly flare up in pain&hellip; 🏃</p>\n",
+				"content_text": "Three miles run this morning. All things going well on Saturday I'll do eight for the first time since April. Can't lie: kind of waiting for some completely random body part I didn't know I have to suddenly flare up in pain... 🏃\n",
+				"date_published": "2023-10-19T10:30:35-04:00",
+				"url": "https://darby3.micro.blog/2023/10/19/three-miles-run.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/10/17/ive-been-on.html",
+				
+				"content_html": "<p>I’ve been on a bit of a book buying hiatus so like I’ve only had five books enter the house in the last week oops. 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ve been on a bit of a book buying hiatus so like I’ve only had five books enter the house in the last week oops. 📚\n\n<img src=\"uploads/2023/c4b9609a9e.jpg\" width=\"600\" height=\"415\" alt=\"A pile of books: Lojman by Ebro Ojen, Hangsaman by Shirley Jackson, Lies and Sorcery by Elsa Morante, No Logo by Naomi Klein, and American Prometheus by Kai Bird and Martin J. Sherwin. \">\n",
+				"date_published": "2023-10-17T20:33:12-04:00",
+				"url": "https://darby3.micro.blog/2023/10/17/ive-been-on.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/10/17/me-hey-can.html",
+				
+				"content_html": "<p>Me: Hey can I drink this apple cider</p>\n<p>My wife: Yeah but it’s a little ferm—</p>\n<p>Me: <em>glug glug glug</em></p>\n",
+				"content_text": "Me: Hey can I drink this apple cider \n\nMy wife: Yeah but it’s a little ferm—\n\nMe: *glug glug glug*\n",
+				"date_published": "2023-10-17T19:00:33-04:00",
+				"url": "https://darby3.micro.blog/2023/10/17/me-hey-can.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/10/17/half-of-bandcamps.html",
+				
+				"content_html": "<p><a href=\"https://mixmag.net/read/bandcamp-layoffs-songtradr-acquisition-union-epic-games-news%22\">&ldquo;Half of Bandcamp&rsquo;s staff let go following Songtradr acquisition&rdquo;</a></p>\n<p>Oof. I really like Bandcamp and hate to see it die like this. As someone who actually likes buying music but has zero interest in (or ability to use) vinyl, there&rsquo;s just nothing else this <em>good</em> in the digital media space, I think. 🎶</p>\n",
+				"content_text": "[\"Half of Bandcamp's staff let go following Songtradr acquisition\"](https://mixmag.net/read/bandcamp-layoffs-songtradr-acquisition-union-epic-games-news\")\n\nOof. I really like Bandcamp and hate to see it die like this. As someone who actually likes buying music but has zero interest in (or ability to use) vinyl, there's just nothing else this *good* in the digital media space, I think. 🎶\n",
+				"date_published": "2023-10-17T09:57:16-04:00",
+				"url": "https://darby3.micro.blog/2023/10/17/half-of-bandcamps.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/10/17/announced-a-schedule.html",
+				
+				"content_html": "<p>Announced a schedule for <a href=\"https://tdaoc.substack.com/p/issue-19-the-schedule\">a thing I&rsquo;m writing about Kazuo Ishiguro&rsquo;s <em>Nocturnes</em></a> that can also function as a read-along for anyone who wants to jump in on it. Now I just have to finally finish the thing. (Deadlines are good, deadlines are good&hellip;deadlines are good.) 📚</p>\n",
+				"content_text": "Announced a schedule for [a thing I'm writing about Kazuo Ishiguro's _Nocturnes_](https://tdaoc.substack.com/p/issue-19-the-schedule) that can also function as a read-along for anyone who wants to jump in on it. Now I just have to finally finish the thing. (Deadlines are good, deadlines are good...deadlines are good.) 📚\n",
+				"date_published": "2023-10-17T09:50:25-04:00",
+				"url": "https://darby3.micro.blog/2023/10/17/announced-a-schedule.html",
+				"tags": ["reading"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/10/16/felt-a-little.html",
 				
 				"content_html": "<p>Felt a little spoiled by my daylight run over the weekend as I got up and out for four miles done and dusted (and damp) before the sun even thought about beginning to come out. My god I can&rsquo;t believe I&rsquo;m becoming a morning person. (Or a morning sheep in a morning wolf&rsquo;s clothing?) 🏃</p>\n",
@@ -35,7 +94,7 @@
 				"id": "http://darby3.micro.blog/2023/10/14/did-the-run.html",
 				
 				"content_html": "<p>Did the run. Whee! Six miles of … this. (The sky, not the back of the traffic lights.) 🏃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Did the run. Whee! Six miles of … this. (The sky, not the back of the traffic lights.) 🏃\n\n<img src=\"uploads/2023/37f8daef86.jpg\" width=\"450\" height=\"600\" alt=\"Traffic lights and power lines against a cloudy gray sky. \">\n",
+				"content_text": "Did the run. Whee! Six miles of … this. (The sky, not the back of the traffic lights.) 🏃\n\n<img src=\"https://cdn.uploads.micro.blog/69511/2023/37f8daef86.jpg\" width=\"450\" height=\"600\" alt=\"Traffic lights and power lines against a cloudy gray sky. \">\n",
 				"date_published": "2023-10-14T17:14:03-04:00",
 				"url": "https://darby3.micro.blog/2023/10/14/did-the-run.html",
 				"tags": ["running"]
