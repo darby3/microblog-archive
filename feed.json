@@ -7,10 +7,77 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/11/16/i-have-this.html",
+				
+				"content_html": "<p>I have this whole entire newsletter issue drafted but I&rsquo;ve choked on sending it out because I think it&rsquo;s maybe completely pessimistic and I&rsquo;m also completely pessimistic about whether it even matters. I&rsquo;m frustrated.</p>\n",
+				"content_text": "I have this whole entire newsletter issue drafted but I've choked on sending it out because I think it's maybe completely pessimistic and I'm also completely pessimistic about whether it even matters. I'm frustrated.\n",
+				"date_published": "2023-11-16T15:03:24-05:00",
+				"url": "https://darby3.micro.blog/2023/11/16/i-have-this.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/11/16/tumblr-every-now.html",
+				
+				"content_html": "<p>Tumblr. Every now and then I&rsquo;m reminded it exists. And that <a href=\"https://tenthousandfalsedreams.tumblr.com/\">I have this one site there</a> that I&rsquo;m still oddly really kind of fond of and that I keep thinking I should revive it and do some more stuff for it and then I get distracted by the dishwasher having to be emptied or something, sigh.</p>\n",
+				"content_text": "Tumblr. Every now and then I'm reminded it exists. And that [I have this one site there](https://tenthousandfalsedreams.tumblr.com/) that I'm still oddly really kind of fond of and that I keep thinking I should revive it and do some more stuff for it and then I get distracted by the dishwasher having to be emptied or something, sigh.\n",
+				"date_published": "2023-11-16T11:03:34-05:00",
+				"url": "https://darby3.micro.blog/2023/11/16/tumblr-every-now.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/11/16/one-of-these.html",
+				
+				"content_html": "<p>One of these days I will learn to keep Julianna Barwick, Julien Baker, Julia Holter, and Julie Byrne properly ordered in my head. But this is not that day. 🎶</p>\n",
+				"content_text": "One of these days I will learn to keep Julianna Barwick, Julien Baker, Julia Holter, and Julie Byrne properly ordered in my head. But this is not that day. 🎶\n",
+				"date_published": "2023-11-16T09:53:05-05:00",
+				"url": "https://darby3.micro.blog/2023/11/16/one-of-these.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/11/16/using-the-down.html",
+				
+				"content_html": "<p>Using the &ldquo;down&rdquo; weeks and their shorter long runs as an excuse to bump one of those extra miles over into a weekday run. So today&rsquo;s run was five miles. Felt alright and also I look forward to passing out at my desk around 3 pm. 🏃</p>\n",
+				"content_text": "Using the \"down\" weeks and their shorter long runs as an excuse to bump one of those extra miles over into a weekday run. So today's run was five miles. Felt alright and also I look forward to passing out at my desk around 3 pm. 🏃\n",
+				"date_published": "2023-11-16T09:48:48-05:00",
+				"url": "https://darby3.micro.blog/2023/11/16/using-the-down.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/11/15/currently-reading-deadhouse.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781429926492\">Deadhouse Gates</a> by Steven Erikson 📚</p>\n",
+				"content_text": "Currently reading: [Deadhouse Gates](https://micro.blog/books/9781429926492) by Steven Erikson 📚\n",
+				"date_published": "2023-11-15T12:27:51-05:00",
+				"url": "https://darby3.micro.blog/2023/11/15/currently-reading-deadhouse.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/11/15/just-so-everyone.html",
+				
+				"content_html": "<p>Just so everyone is clear I will not be offering a Black Friday discount this year. If you would like to give me money, you&rsquo;ll need to give me as much money as you would like to give me. Thanks!</p>\n",
+				"content_text": "Just so everyone is clear I will not be offering a Black Friday discount this year. If you would like to give me money, you'll need to give me as much money as you would like to give me. Thanks!\n",
+				"date_published": "2023-11-15T11:47:17-05:00",
+				"url": "https://darby3.micro.blog/2023/11/15/just-so-everyone.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/11/15/flu-covid-shots.html",
+				
+				"content_html": "<p>Flu + Covid shots yesterday. Not feeling too bad today, depending on the minute you ask me. My flu arm hurts the worst, though, which is weird, I thought the Covid shot was the one that did my arm in last year.</p>\n",
+				"content_text": "Flu + Covid shots yesterday. Not feeling too bad today, depending on the minute you ask me. My flu arm hurts the worst, though, which is weird, I thought the Covid shot was the one that did my arm in last year.\n",
+				"date_published": "2023-11-15T09:44:15-05:00",
+				"url": "https://darby3.micro.blog/2023/11/15/flu-covid-shots.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/11/14/considering-a-few.html",
+				
+				"content_html": "<p>Considering a few adjustments to my coming weeks of running. If nothing else, this year has taught me that making the training plan in pencil isn&rsquo;t the worst idea. 🏃</p>\n",
+				"content_text": "Considering a few adjustments to my coming weeks of running. If nothing else, this year has taught me that making the training plan in pencil isn't the worst idea. 🏃\n",
+				"date_published": "2023-11-14T09:43:20-05:00",
+				"url": "https://darby3.micro.blog/2023/11/14/considering-a-few.html",
+				"tags": ["running"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/11/11/been-thinking-about.html",
 				
 				"content_html": "<p>Been thinking about doing this 10 mile run for over a year now, maybe? Finally pulled it off. Ran from my home park to an old Coast Guard station…and then back. 🏃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Been thinking about doing this 10 mile run for over a year now, maybe? Finally pulled it off. Ran from my home park to an old Coast Guard station…and then back. 🏃\n\n<img src=\"uploads/2023/86194948dd.jpg\" width=\"600\" height=\"600\" alt=\"Strava run map showing 10.1 mile run, 11:24/mile pace, 1 hour 55 minute time. \">\n",
+				"content_text": "Been thinking about doing this 10 mile run for over a year now, maybe? Finally pulled it off. Ran from my home park to an old Coast Guard station…and then back. 🏃\n\n<img src=\"https://cdn.uploads.micro.blog/69511/2023/86194948dd.jpg\" width=\"600\" height=\"600\" alt=\"Strava run map showing 10.1 mile run, 11:24/mile pace, 1 hour 55 minute time. \">\n",
 				"date_published": "2023-11-11T11:06:47-05:00",
 				"url": "https://darby3.micro.blog/2023/11/11/been-thinking-about.html",
 				"tags": ["running"]
