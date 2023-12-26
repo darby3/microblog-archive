@@ -7,6 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2023/12/26/christmas-book-pile.html",
+				
+				"content_html": "<p>Christmas book pile. 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Christmas book pile. 📚\n\n<img src=\"uploads/2023/8854299656.jpg\" width=\"600\" height=\"600\" alt=\"Books: The Great Believers by Rebecca Makkai; A Most Remarkable Creature by Jonathan Meiburg; Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin; and Our Share of Night by Mariana Enriquez. \">\n",
+				"date_published": "2023-12-26T12:48:02-05:00",
+				"url": "https://darby3.micro.blog/2023/12/26/christmas-book-pile.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/12/23/weird-feeling-to.html",
+				
+				"content_html": "<p>Weird feeling to have co-signed a letter that is then <a href=\"https://www.nytimes.com/2023/12/22/business/substack-nazis-content-moderation.html?unlocked_article_code=1.IE0.6r19.P46eyhyhw327&amp;smid=nytcore-ios-share&amp;referringSource=articleShare\">linked to in The New York Times</a> but here we are.</p>\n",
+				"content_text": "Weird feeling to have co-signed a letter that is then [linked to in The New York Times](https://www.nytimes.com/2023/12/22/business/substack-nazis-content-moderation.html?unlocked_article_code=1.IE0.6r19.P46eyhyhw327&smid=nytcore-ios-share&referringSource=articleShare) but here we are. \n",
+				"date_published": "2023-12-23T14:18:48-05:00",
+				"url": "https://darby3.micro.blog/2023/12/23/weird-feeling-to.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/12/23/my-goal-for.html",
+				
+				"content_html": "<p>My goal for the year was to run two half marathon races. Missed both because body. Ending the year with a 13.2 mile run one weekend and a 14 mile run the following weekend makes for a heck of a consolation prize… 🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My goal for the year was to run two half marathon races. Missed both because body. Ending the year with a 13.2 mile run one weekend and a 14 mile run the following weekend makes for a heck of a consolation prize… 🏃\n\n<img src=\"uploads/2023/9b37d2e04e.jpg\" width=\"600\" height=\"600\" alt=\"Map of Strava run route along valley parkway in Cleveland Metroparks. 14 mile run, 10:59 per mile pace, 2 hour 34 minute time.\">\n",
+				"date_published": "2023-12-23T11:01:56-05:00",
+				"url": "https://darby3.micro.blog/2023/12/23/my-goal-for.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/12/20/currently-reading-super.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780679603597\">Super Sad True Love Story</a> by Gary Shteyngart 📚</p>\n",
+				"content_text": "Currently reading: [Super Sad True Love Story](https://micro.blog/books/9780679603597) by Gary Shteyngart 📚\n",
+				"date_published": "2023-12-20T15:56:24-05:00",
+				"url": "https://darby3.micro.blog/2023/12/20/currently-reading-super.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/12/20/is-joomla-really.html",
+				
+				"content_html": "<p>Is Joomla really that popular (on the scale of things being popular that aren&rsquo;t Wordpress)? Gosh.</p>\n",
+				"content_text": "Is Joomla really that popular (on the scale of things being popular that aren't Wordpress)? Gosh.\n",
+				"date_published": "2023-12-20T10:28:24-05:00",
+				"url": "https://darby3.micro.blog/2023/12/20/is-joomla-really.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/12/20/up-to-day.html",
+				
+				"content_html": "<p>Up to Day 12 part 2 of Advent of Code, which is one of those ugh &ldquo;Uhm, exactly how much do I have to rethink what I did for part one, now?&hellip;Which I&rsquo;d already spent a <em>lot</em> of time thinking about?&hellip;&rdquo; moments.</p>\n",
+				"content_text": "Up to Day 12 part 2 of Advent of Code, which is one of those ugh \"Uhm, exactly how much do I have to rethink what I did for part one, now?...Which I'd already spent a *lot* of time thinking about?...\" moments.\n",
+				"date_published": "2023-12-20T09:50:27-05:00",
+				"url": "https://darby3.micro.blog/2023/12/20/up-to-day.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/12/20/netlifys-disingenuous-surveybased.html",
 				
 				"content_html": "<p>&ldquo;Netlify’s Disingenuous Survey-based Attack on Next.js (and Eleventy, too)&rdquo;</p>\n<p>I&rsquo;m often feel disconnected from web dev drama, <a href=\"https://www.zachleat.com/web/netlify-and-nextjs/\">but this is pretty spicy</a>, huh.</p>\n",
