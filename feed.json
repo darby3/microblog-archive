@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2024/01/01/i-pile-up.html",
+				
+				"content_html": "<p>I pile up my books as I read them each year. It’s nerdy and silly and dumb. Here’s 2023’s tower. With a sliver of the TBR pile alongside. 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I pile up my books as I read them each year. It’s nerdy and silly and dumb. Here’s 2023’s tower. With a sliver of the TBR pile alongside. 📚\n\n<img src=\"uploads/2024/4449449021.jpg\" width=\"450\" height=\"600\" alt=\"A tall tower of books and some other books piled up next to it. \">\n",
+				"date_published": "2024-01-01T16:31:20-05:00",
+				"url": "https://darby3.micro.blog/2024/01/01/i-pile-up.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/12/30/i-love-me.html",
+				
+				"content_html": "<p>I love me some long books but gosh did I throw out my back buying <em>The Power Broker</em> by Robert Caro today. 📚</p>\n",
+				"content_text": "I love me some long books but gosh did I throw out my back buying _The Power Broker_ by Robert Caro today. 📚\n",
+				"date_published": "2023-12-30T20:18:55-05:00",
+				"url": "https://darby3.micro.blog/2023/12/30/i-love-me.html",
+				"tags": ["reading"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2023/12/30/capped-off-my.html",
+				
+				"content_html": "<p>Capped off my first 100+ mile month with a little familiar 5 miler where I unexpectedly PRed the last mile, which I’ve run dozens of times I think? For a year I wanted to rage quit a couple times, I’ll certainly take it. 🏃</p>\n",
+				"content_text": "Capped off my first 100+ mile month with a little familiar 5 miler where I unexpectedly PRed the last mile, which I’ve run dozens of times I think? For a year I wanted to rage quit a couple times, I’ll certainly take it. 🏃\n",
+				"date_published": "2023-12-30T10:23:39-05:00",
+				"url": "https://darby3.micro.blog/2023/12/30/capped-off-my.html",
+				"tags": ["running"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2023/12/26/christmas-book-pile.html",
 				
 				"content_html": "<p>Christmas book pile. 📚</p>\n<!-- raw HTML omitted -->\n",
