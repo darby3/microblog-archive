@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2024/02/17/todays-run-was.html",
+				
+				"content_html": "<p>Today’s run was a ten miler and I didn’t like the looks of the snow so I stuck to a three mile strip of a pretty clean main street. Double-out-and-back looping makes for a dull route but I had some cool clouds for a bit. 🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today’s run was a ten miler and I didn’t like the looks of the snow so I stuck to a three mile strip of a pretty clean main street. Double-out-and-back looping makes for a dull route but I had some cool clouds for a bit. 🏃\n\n<img src=\"uploads/2024/ca935e72bc.jpg\" width=\"600\" height=\"450\" alt=\"Dramatic kind of ominous clouds around day break over a snowy row of houses. \">\n",
+				"date_published": "2024-02-17T11:19:25-05:00",
+				"url": "https://darby3.micro.blog/2024/02/17/todays-run-was.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2024/02/15/learned-about-streetpass.html",
+				
+				"content_html": "<p>Learned about <a href=\"https://streetpass.social/\">StreetPass</a> recently. It&rsquo;s kind of neat. I&rsquo;m not sure if I&rsquo;m actually going to become more active on Mastodon because of it, but I like the idea.</p>\n",
+				"content_text": "Learned about [StreetPass](https://streetpass.social/) recently. It's kind of neat. I'm not sure if I'm actually going to become more active on Mastodon because of it, but I like the idea.\n",
+				"date_published": "2024-02-15T10:46:35-05:00",
+				"url": "https://darby3.micro.blog/2024/02/15/learned-about-streetpass.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2024/02/13/this-feels-like.html",
+				
+				"content_html": "<p>This feels like the week where the running plan gets&hellip;interesting. Today&rsquo;s midweek semi-long run was up to five miles and the coming weekend long run will go to ten. In other news, gotta remember to order more coffee beans&hellip; 🏃☕️</p>\n",
+				"content_text": "This feels like the week where the running plan gets...interesting. Today's midweek semi-long run was up to five miles and the coming weekend long run will go to ten. In other news, gotta remember to order more coffee beans... 🏃☕️\n",
+				"date_published": "2024-02-13T09:22:13-05:00",
+				"url": "https://darby3.micro.blog/2024/02/13/this-feels-like.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2024/02/12/the-new-chelsea.html",
+				
+				"content_html": "<p>The new Chelsea Wolfe album sounds pretty great. 🎶</p>\n",
+				"content_text": "The new Chelsea Wolfe album sounds pretty great. 🎶\n",
+				"date_published": "2024-02-12T11:19:29-05:00",
+				"url": "https://darby3.micro.blog/2024/02/12/the-new-chelsea.html"
+			},
+			{
 				"id": "http://darby3.micro.blog/2024/02/12/after-my-daylight.html",
 				
 				"content_html": "<p>After my daylight run Saturday getting up and back out into the dark again this morning was less fun. But I did it. Nice to get at least a homeopathic dose of daylight near the very end, though! But, makes me less excited for daylight savings jerking that back away from me in a couple weeks 🤷🏃</p>\n",
