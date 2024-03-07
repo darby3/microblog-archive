@@ -7,6 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://darby3.micro.blog/2024/03/07/i-dont-usually.html",
+				
+				"content_html": "<p>I don&rsquo;t usually run more than two days in a row but I&rsquo;ve done three day streaks twice now in the last three weeks and let me say there is no sleep like the sleep leading into that following rest day. 🏃</p>\n",
+				"content_text": "I don't usually run more than two days in a row but I've done three day streaks twice now in the last three weeks and let me say there is no sleep like the sleep leading into that following rest day. 🏃\n",
+				"date_published": "2024-03-07T09:18:01-05:00",
+				"url": "https://darby3.micro.blog/2024/03/07/i-dont-usually.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2024/03/06/teachers-are-embracing.html",
+				
+				"content_html": "<p>&ldquo;<a href=\"https://www.axios.com/2024/03/06/ai-tools-teachers-chatgpt-writable\">Teachers are embracing ChatGPT-powered grading</a>&rdquo;</p>\n<p>What the actual fuck is wrong with us?</p>\n",
+				"content_text": "\"[Teachers are embracing ChatGPT-powered grading](https://www.axios.com/2024/03/06/ai-tools-teachers-chatgpt-writable)\"\r\n\r\nWhat the actual fuck is wrong with us?\n",
+				"date_published": "2024-03-06T11:20:15-05:00",
+				"url": "https://darby3.micro.blog/2024/03/06/teachers-are-embracing.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2024/03/05/criterion-sale-spoils.html",
+				
+				"content_html": "<p>Criterion sale spoils came in the other day. I managed to stay chill. Limited myself to the <em>Once Upon a Time in China</em> boxset and a blu-ray upgrade of <em>Inland Empire</em>. That said&hellip;still waiting to see what my wife ordered.  😂 🍿</p>\n",
+				"content_text": "Criterion sale spoils came in the other day. I managed to stay chill. Limited myself to the _Once Upon a Time in China_ boxset and a blu-ray upgrade of _Inland Empire_. That said...still waiting to see what my wife ordered.  😂 🍿\r\n\r\n",
+				"date_published": "2024-03-05T17:11:22-05:00",
+				"url": "https://darby3.micro.blog/2024/03/05/criterion-sale-spoils.html"
+			},
+			{
+				"id": "http://darby3.micro.blog/2024/03/05/another-week-another.html",
+				
+				"content_html": "<p>Another week another mid-week 6 miler. Next week it goes to 7. (And one of the 3s becomes a 4. Whee!) 🏃</p>\n",
+				"content_text": "Another week another mid-week 6 miler. Next week it goes to 7. (And one of the 3s becomes a 4. Whee!) 🏃\n",
+				"date_published": "2024-03-05T14:05:28-05:00",
+				"url": "https://darby3.micro.blog/2024/03/05/another-week-another.html",
+				"tags": ["running"]
+			},
+			{
+				"id": "http://darby3.micro.blog/2024/03/04/recent-runs.html",
+				"title": "Recent runs 🏃",
+				"content_html": "<p>Last week&rsquo;s runs added up to kind of a big jump for the week with my run Saturday being a 12 miler and yet it is weird just how much it felt almost like no big deal. (Almost!) I could feel the grind of the run a bit for a while in the middle, but at the same time I never doubted <em>too</em> much that I would finish, never felt like I had to ease back much or anything. If anything I was probably running the whole thing harder than I expected to or than I probably ought to have&hellip;but it also felt kind of good, so, I guess, what do I know? Still, I was definitely feeling a bit stiff and achy when I got up for today&rsquo;s 3 miler. But, like, not to the point of <em>not</em> being able to run today. Definitely wasn&rsquo;t pushing the pace or anything though. And I will absolutely plan on trying to consciously go easier on this weekend&rsquo;s 13 miler, for sure.</p>\n<p>All of which is to say that as I reach this &ldquo;mid-point&rdquo; of the marathon training cycle, when I reach that half-marathon distance again, which is the point I&rsquo;d said would be my real check-in about going forward and finishing out the plan&hellip;I&rsquo;m feeling generally more confident that I&rsquo;ll probably be putting money down on the race this time next week. I think!</p>\n",
+				"content_text": "Last week's runs added up to kind of a big jump for the week with my run Saturday being a 12 miler and yet it is weird just how much it felt almost like no big deal. (Almost!) I could feel the grind of the run a bit for a while in the middle, but at the same time I never doubted _too_ much that I would finish, never felt like I had to ease back much or anything. If anything I was probably running the whole thing harder than I expected to or than I probably ought to have...but it also felt kind of good, so, I guess, what do I know? Still, I was definitely feeling a bit stiff and achy when I got up for today's 3 miler. But, like, not to the point of _not_ being able to run today. Definitely wasn't pushing the pace or anything though. And I will absolutely plan on trying to consciously go easier on this weekend's 13 miler, for sure.\r\n\r\nAll of which is to say that as I reach this \"mid-point\" of the marathon training cycle, when I reach that half-marathon distance again, which is the point I'd said would be my real check-in about going forward and finishing out the plan...I'm feeling generally more confident that I'll probably be putting money down on the race this time next week. I think!\n",
+				"date_published": "2024-03-04T09:45:36-05:00",
+				"url": "https://darby3.micro.blog/2024/03/04/recent-runs.html",
+				"tags": ["running"]
+			},
+			{
 				"id": "http://darby3.micro.blog/2024/03/01/miss-macintosh-my.html",
 				
 				"content_html": "<p><a href=\"https://tdaoc.org/2024/03/01/guess-who-s-coming-to-dinner/\"><em>Miss MacIntosh, My Darling</em> is coming</a>! Wow! 📚</p>\n",
@@ -52,7 +95,7 @@
 				"id": "http://darby3.micro.blog/2024/02/27/gonna-drop-degrees.html",
 				
 				"content_html": "<p>Gonna drop 44 degrees in the next 33 hours. That’s cool.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Gonna drop 44 degrees in the next 33 hours. That’s cool. \n\n<img src=\"uploads/2024/e5f95c5cca.jpg\" width=\"450\" height=\"600\" alt=\"Barren tree branches against a moody party cloudy sky. \">\n",
+				"content_text": "Gonna drop 44 degrees in the next 33 hours. That’s cool. \n\n<img src=\"https://cdn.uploads.micro.blog/69511/2024/e5f95c5cca.jpg\" width=\"450\" height=\"600\" alt=\"Barren tree branches against a moody party cloudy sky. \">\n",
 				"date_published": "2024-02-27T15:36:19-05:00",
 				"url": "https://darby3.micro.blog/2024/02/27/gonna-drop-degrees.html"
 			},
